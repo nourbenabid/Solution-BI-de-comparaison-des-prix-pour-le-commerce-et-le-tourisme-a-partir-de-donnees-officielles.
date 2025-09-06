@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_bPCQQN0DEe-aTrHSaC_bCA" name="geant1" dataPackage="_bPCQQd0DEe-aTrHSaC_bCA" Server="Localhost 127.0.0.1" FilePath="C:/Users/User/Desktop/Comparateur de prix/geant/geant_le_marche.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorType="Custom String" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_bPCQQd0DEe-aTrHSaC_bCA" name="default" dataManager="_bPCQQN0DEe-aTrHSaC_bCA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_bPCQQt0DEe-aTrHSaC_bCA" id="_ph68gN0CEe-aTrHSaC_bCA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bPCQQ90DEe-aTrHSaC_bCA" label="web_scraper_order" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bPCQRN0DEe-aTrHSaC_bCA" label="web_scraper_start_url" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bPCQRd0DEe-aTrHSaC_bCA" label="produit" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bPCQRt0DEe-aTrHSaC_bCA" label="marque" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bPCQR90DEe-aTrHSaC_bCA" label="taille" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bPCQSN0DEe-aTrHSaC_bCA" label="prix" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

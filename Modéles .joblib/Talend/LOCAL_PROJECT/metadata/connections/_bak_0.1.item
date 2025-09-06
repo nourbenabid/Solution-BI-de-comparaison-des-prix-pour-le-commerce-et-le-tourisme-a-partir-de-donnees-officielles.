@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010">
+  <TalendMetadata:DatabaseConnection xmi:id="_oFuC8ONSEe-qCt5zTQbZxg" name=".bak" id="_b4FBYONSEe-qCt5zTQbZxg" label=".bak" dataPackage="_eiGFsONUEe-qCt5zTQbZxg" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://DESKTOP-02H3Q9I:1433/Produit;" dbVersionString="JTDS" Port="1433" Username="sa" Password="enc:system.encryption.key.v1:+W1btgGY/s6+6eNnGADoh3FyNjoF9I5+pvFc8U/m3nuntkBW/Cs=" ServerName="DESKTOP-02H3Q9I" DatasourceName="" FileFieldName="" SID="Produit" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_oFuC8eNSEe-qCt5zTQbZxg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_oGNyMONSEe-qCt5zTQbZxg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_oGNyMeNSEe-qCt5zTQbZxg" tag="Status" value=""/>
+    <taggedValue xmi:id="_oGNyMuNSEe-qCt5zTQbZxg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_oGNyM-NSEe-qCt5zTQbZxg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_oGNyNONSEe-qCt5zTQbZxg" tag="Description" value=""/>
+    <taggedValue xmi:id="_oGNyNeNSEe-qCt5zTQbZxg" tag="Author" value=""/>
+    <taggedValue xmi:id="_oGNyNuNSEe-qCt5zTQbZxg" tag="otherParameter"/>
+    <taggedValue xmi:id="_oGe38ONSEe-qCt5zTQbZxg" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_oGe38eNSEe-qCt5zTQbZxg" tag="DB ProductVersion" value="11.00.2100"/>
+    <taggedValue xmi:id="_oGe38uNSEe-qCt5zTQbZxg" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_oFuC8uNSEe-qCt5zTQbZxg" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+    <parameters xmi:id="_F690YONTEe-qCt5zTQbZxg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_eiGFsONUEe-qCt5zTQbZxg" name="Produit" dataManager="_oFuC8ONSEe-qCt5zTQbZxg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFseNUEe-qCt5zTQbZxg" name="db_accessadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFsuNUEe-qCt5zTQbZxg" name="db_backupoperator"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFs-NUEe-qCt5zTQbZxg" name="db_datareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFtONUEe-qCt5zTQbZxg" name="db_datawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFteNUEe-qCt5zTQbZxg" name="db_ddladmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFtuNUEe-qCt5zTQbZxg" name="db_denydatareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFt-NUEe-qCt5zTQbZxg" name="db_denydatawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFuONUEe-qCt5zTQbZxg" name="db_owner"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFueNUEe-qCt5zTQbZxg" name="db_securityadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFuuNUEe-qCt5zTQbZxg" name="dbo">
+      <ownedElement xsi:type="relational:TdTable" xmi:id="_5sFzMeOTEe-FZoIKxHwRuQ" name="Cat_Produit" id="_5sFzMOOTEe-FZoIKxHwRuQ" label="Cat_Produit" tableType="TABLE">
+        <feature xsi:type="relational:TdColumn" xmi:id="_5sFzMuOTEe-FZoIKxHwRuQ" name="ID_Catégorie_Produit" label="ID_Categorie_Produit" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
+          <taggedValue xmi:id="_5sFzM-OTEe-FZoIKxHwRuQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_5sFzNOOTEe-FZoIKxHwRuQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_5sFzNeOTEe-FZoIKxHwRuQ" name="INT" numericPrecisionRadix="10" javaDataType="4"/>
+        </feature>
+        <feature xsi:type="relational:TdColumn" xmi:id="_5sFzNuOTEe-FZoIKxHwRuQ" name="Catégorie_Produit" label="Categorie_Produit" length="255" sourceType="NVARCHAR" talendType="id_String">
+          <taggedValue xmi:id="_5sFzN-OTEe-FZoIKxHwRuQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_5sFzOOOTEe-FZoIKxHwRuQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_5sFzOeOTEe-FZoIKxHwRuQ" name="NVARCHAR" javaDataType="12" nullable="columnNullable"/>
+        </feature>
+      </ownedElement>
+      <ownedElement xsi:type="relational:TdTable" xmi:id="_50FRkeOTEe-FZoIKxHwRuQ" name="Product" id="_50FRkOOTEe-FZoIKxHwRuQ" label="Product" tableType="TABLE">
+        <feature xsi:type="relational:TdColumn" xmi:id="_50FRkuOTEe-FZoIKxHwRuQ" name="Code_Produit" label="Code_Produit" length="255" sourceType="NVARCHAR" talendType="id_String">
+          <taggedValue xmi:id="_50FRk-OTEe-FZoIKxHwRuQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_50FRlOOTEe-FZoIKxHwRuQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_50FRleOTEe-FZoIKxHwRuQ" name="NVARCHAR" javaDataType="12" nullable="columnNullable"/>
+        </feature>
+        <feature xsi:type="relational:TdColumn" xmi:id="_50FRluOTEe-FZoIKxHwRuQ" name="Produit" label="Produit" length="255" sourceType="NVARCHAR" talendType="id_String">
+          <taggedValue xmi:id="_50FRl-OTEe-FZoIKxHwRuQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_50FRmOOTEe-FZoIKxHwRuQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_50FRmeOTEe-FZoIKxHwRuQ" name="NVARCHAR" javaDataType="12" nullable="columnNullable"/>
+        </feature>
+        <feature xsi:type="relational:TdColumn" xmi:id="_50FRmuOTEe-FZoIKxHwRuQ" name="Id_catégorie_Produit" label="Id_categorie_Produit" length="10" sourceType="INT" talendType="id_Integer" nullable="false">
+          <taggedValue xmi:id="_50FRm-OTEe-FZoIKxHwRuQ" tag="Comment" value=""/>
+          <initialValue xsi:type="relational:TdExpression" xmi:id="_50FRnOOTEe-FZoIKxHwRuQ" language="COLUMN_DEF"/>
+          <sqlDataType xmi:id="_50FRneOTEe-FZoIKxHwRuQ" name="INT" numericPrecisionRadix="10" javaDataType="4"/>
+        </feature>
+      </ownedElement>
+    </ownedElement>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFu-NUEe-qCt5zTQbZxg" name="guest"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFvONUEe-qCt5zTQbZxg" name="INFORMATION_SCHEMA"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_eiGFveNUEe-qCt5zTQbZxg" name="sys"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

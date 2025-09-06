@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_7jCS0PxiEe-spaQBgmCf9Q" name="carrefour3" id="_7i9aUPxiEe-spaQBgmCf9Q" dataPackage="_7jCS0fxiEe-spaQBgmCf9Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/User/Desktop/Comparateur de prix/carrefour/carrefour_marche.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_7jCS0fxiEe-spaQBgmCf9Q" name="default" dataManager="_7jCS0PxiEe-spaQBgmCf9Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_7jCS0vxiEe-spaQBgmCf9Q" id="_rvh90PxiEe-spaQBgmCf9Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7jCS0_xiEe-spaQBgmCf9Q" label="Nom" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7jCS1PxiEe-spaQBgmCf9Q" label="Marque" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7jCS1fxiEe-spaQBgmCf9Q" label="Taille" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7jCS1vxiEe-spaQBgmCf9Q" label="Prix" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,495 @@
+[ {
+  "baseItem" : {
+    "id" : "_3DEaUP6hEe-TxJtagtIrrg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_wKgAAP6hEe-TxJtagtIrrg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - touring",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - touring_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_hotel",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - dim_entreprise",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - fact_Reservation",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_wKgAAP6hEe-TxJtagtIrrg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_5hI88P2pEe-fNv_JuJJLBg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_wKgAAP6hEe-TxJtagtIrrg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - touring",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - touring_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_hotel",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - dim_entreprise",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - fact_Reservation",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_wKgAAP6hEe-TxJtagtIrrg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_B6HvUPwkEe-cHNgLOYrKDQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Achat_MG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Geographie",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_BseVUPk5Ee-neb_Bd6AEog",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_hotel",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JZQhAP3-Ee-kL5O_jpkEWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Vol_booking",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Billet",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Compagnie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - dim_entreprise",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - fact_Vols",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_KOX2wPwfEe-cHNgLOYrKDQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_categorie_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__dlSQP7SEe-5sLPT5XQZtw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Achat",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Carreffour_Unique",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Geant_Unique",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - MG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - carrefour",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - geant",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Clients",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Geographie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_categorie_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - dim_entreprise",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - fact_ventes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_dZB4wP4XEe-HWNQEbwwcTg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Achat_MG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Carreffour_Unique",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Geant_Unique",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - MG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - carrefour",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - geant",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Clients",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Geographie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_categorie_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - dim_entreprise",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - fact_ventes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ko4ugPuiEe-Ur4NQ_9StCg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - carrefour",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - touring",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - dim_entreprise",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_krojQPwgEe-cHNgLOYrKDQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Achat",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Clients",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pFQhwPzXEe-VgdPVdamnuA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Carreffour_Unique",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Geant_Unique",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - MG",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - carrefour",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - geant",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Produit",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_sYZK4P6iEe-TxJtagtIrrg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - hotel_ratings11",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - traveltodo_external_dates",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_hotel",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_tdnJ8PuWEe-q2ZWAkj5vRg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Compagnie",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zm1GwPudEe-Ur4NQ_9StCg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VDdbUPk9Ee-neb_Bd6AEog - Vol_traveltodo",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_naswAPlLEe-kJLqD-YKsYQ - Dim_Billet",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

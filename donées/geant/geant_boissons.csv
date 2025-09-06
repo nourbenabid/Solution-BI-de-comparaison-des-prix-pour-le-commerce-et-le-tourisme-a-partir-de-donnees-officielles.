@@ -1,0 +1,892 @@
+﻿web-scraper-order;web-scraper-start-url;produit;marque;taille;prix
+1736613405-1;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;DELICE;250ML;0.300 DT
+1736613405-2;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantannée;JOUTO;7GR Citron;0.350 DT
+1736613405-3;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantannée;JOUTO;7GR Cocktail;0.350 DT
+1736613405-4;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;AQUALINE;0.5L;0.400 DT
+1736613405-5;https://www.geantdrive.tn/tunis-city/10-boissons;Eau plate;JEKTISS;0.5L;0.400 DT
+1736613405-6;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MARWA;0.5L;0.420 DT
+1736613405-7;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;CRISTALINE;0.5L;0.420 DT
+1736613405-8;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;SAFIA;0.5L;0.420 DT
+1736613405-9;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MELLITI;0.5L;0.420 DT
+1736613405-10;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MELINA;0.5L;0.420 DT
+1736613405-11;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;JEKTISS;0.5L;0.450 DT
+1736613405-12;https://www.geantdrive.tn/tunis-city/10-boissons;Eau de source;DELICE;0.5L;0.480 DT
+1736613405-13;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;PALMA;0.5L;0.500 DT
+1736613405-14;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;FRUZZY;125ML Orange;0.520 DT
+1736613405-15;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;FRUZZY;125ML Tropical;0.520 DT
+1736613405-16;https://www.geantdrive.tn/tunis-city/10-boissons;Eau de source;JEKTISS;1L;0.610 DT
+1736613405-17;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;CRISTALINE;1.5L;0.620 DT
+1736613405-18;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;GARCI;1L;0.620 DT
+1736613405-19;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MELLITI;1.5L;0.630 DT
+1736613405-20;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;AQUALINE;1L;0.630 DT
+1736613405-21;https://www.geantdrive.tn/tunis-city/10-boissons;Eau de source;MIRA;0.95L;0.635 DT
+1736613405-22;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;JUGO KIDS;125ML Orange;0.590 DT
+1736613405-23;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;JUGO KIDS;125ML Poire;0.590 DT
+1736613405-24;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MARWA;1.5L;0.640 DT
+1736613405-25;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;JEKTISS;1L;0.645 DT
+1736613405-26;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;SABRINE;1.5L;0.650 DT
+1736613405-27;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;AQUALINE;1.5L;0.660 DT
+1736613405-28;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;DIMA;1.5L;0.660 DT
+1736613405-29;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;TIJEN;1.5L;0.670 DT
+1736613405-30;https://www.geantdrive.tn/tunis-city/10-boissons;Eau de source;DELICE;1.5L;0.680 DT
+1736613405-31;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;SAFIA;1.5L;0.690 DT
+1736613405-32;https://www.geantdrive.tn/tunis-city/10-boissons;Eau de source;ELIXIR;1.5L;0.700 DT
+1736613405-33;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;PALMA;1.5L;0.750 DT
+1736613405-34;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;DIMA;2L;0.750 DT
+1736613405-35;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;AQUALINE;2L;0.760 DT
+1736613405-36;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MELINA;2Litres;0.790 DT
+1736613405-37;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;MIRA;2L;0.790 DT
+1736613405-38;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Orange;0.750 DT
+1736613405-39;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Citron;0.750 DT
+1736613405-40;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Mangue;0.750 DT
+1736613405-41;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Fraise;0.750 DT
+1736613405-42;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;CRISTALINE;2L;0.840 DT
+1736613405-43;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Ananas;0.750 DT
+1736613405-44;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Pêche;0.750 DT
+1736613405-45;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson instantanée;FRUITO;30GR Cocktail;0.750 DT
+1736613405-46;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;FOURAT;2L;0.850 DT
+1736613405-47;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;20CL Ananas;0.870 DT
+1736613405-48;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Pêche;0.870 DT
+1736613405-49;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Orange-Banane Bnino;0.870 DT
+1736613405-50;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Ananas;0.870 DT
+1736613405-51;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Fraise-Banane Bnino;0.870 DT
+1736613405-52;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Mangue;0.870 DT
+1736613405-53;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;20CL Mangue;0.870 DT
+1736613405-54;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Orange;0.870 DT
+1736613405-55;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Frutto Bnino;0.870 DT
+1736613405-56;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;DELICE;20CL Multi Vitaminée;0.870 DT
+1736613405-57;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;20CL Orange;0.870 DT
+1736613405-58;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;20CL Tropical Bnino;0.870 DT
+1736613405-59;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;PALMA;2L;0.900 DT
+1736613405-60;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TROPICO;20CL Cocktail;0.940 DT
+1736613405-61;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;DELICE DELI'O;250ML Pêche;0.960 DT
+1736613405-62;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;DELICE DELI'O;250ML Ananas;0.960 DT
+1736613405-63;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;DELICE DELI'O;250ML Fraise;0.960 DT
+1736613405-64;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;DELICE DELI'O;250ML Menthe;0.960 DT
+1736613405-65;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;DELICE DELI'O;250ML Poire;0.960 DT
+1736613405-66;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;DELICE DELI'O;250ML Pomme;0.960 DT
+1736613405-67;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;24CL Zéro;1.160 DT
+1736613405-68;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;25CL Mangue Energy;1.200 DT
+1736613405-69;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;25CL Tropical Bnino;1.200 DT
+1736613405-70;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;25CL Cocktail energy;1.200 DT
+1736613405-71;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;30CL Citron;1.210 DT
+1736613405-72;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;30CL Sans sucre;1.210 DT
+1736613405-73;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;BOGA;30CL Pêche-Abricot;1.210 DT
+1736613405-74;https://www.geantdrive.tn/tunis-city/10-boissons;Eau gazéifiée;BOGA;30CL Fruit rouge;1.210 DT
+1736613405-75;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;30CL Orange;1.230 DT
+1736613405-76;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;30CL Pomme;1.230 DT
+1736613405-77;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;30CL Mojito;1.230 DT
+1736613405-78;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;30CL Zero;1.230 DT
+1736613405-79;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;30CL Cidre;1.230 DT
+1736613405-80;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;30CL Pomme;1.230 DT
+1736613405-81;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;200ML Mangue;1.050 DT
+1736613405-82;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;200ML Cocktail;1.050 DT
+1736613405-83;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;200ML Orange;1.050 DT
+1736613405-84;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;30CL;1.260 DT
+1736613405-85;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OH;25CL Berries;1.270 DT
+1736613405-86;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;24CL;1.270 DT
+1736613405-87;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OH;25CL Banane orange;1.270 DT
+1736613405-88;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;30CL Orange;1.270 DT
+1736613405-89;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;OH;25CL Poire;1.270 DT
+1736613405-90;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;24CL Tonic;1.290 DT
+1736613405-91;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;30CL Cidre;1.290 DT
+1736613405-92;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;24CL Agrumes;1.290 DT
+1736613405-93;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;24CL Citron;1.290 DT
+1736613405-94;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;24CL Pêche;1.120 DT
+1736613405-95;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;30CL Lime;1.320 DT
+1736613405-96;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;24CL Menthe;1.320 DT
+1736613405-97;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;24CL Pomme;1.320 DT
+1736613405-98;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;24CL Orange;1.320 DT
+1736613405-99;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;24CL Cidre;1.320 DT
+1736613405-100;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;24CL Citron;1.120 DT
+1736613405-101;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;RAOUA;24CL Chani;1.150 DT
+1736613405-102;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;24CL Cidre;1.120 DT
+1736613405-103;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SPRITE;24CL;1.320 DT
+1736613405-104;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;24CL Pomme;1.120 DT
+1736613405-105;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;APLA;24CL;1.350 DT
+1736613405-106;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;50CL Zéro;1.390 DT
+1736613405-107;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;50CL Pêche;1.420 DT
+1736613405-108;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;24CL Zéro;1.420 DT
+1736613405-109;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;50CL Pomme;1.420 DT
+1736613405-110;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TROPICO;50CL;1.290 DT
+1736613405-111;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;50CL Cidre;1.420 DT
+1736613405-112;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;50CL Citron;1.420 DT
+1736613405-113;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;40CL Au pulpe d'orange;1.430 DT
+1736613405-114;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;0.4L Zèro;1.430 DT
+1736613405-115;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;50CL Tropical;1.440 DT
+1736613405-116;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;50CL Menthe;1.440 DT
+1736613405-117;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;50CL Mojito;1.440 DT
+1736613405-118;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;24CL Mojito;1.460 DT
+1736613405-119;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;24CL;1.460 DT
+1736613405-120;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;24CL Citron;1.460 DT
+1736613405-121;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;250ML Mangue;1.470 DT
+1736613405-122;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;250ML Ananas;1.470 DT
+1736613405-123;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;250ML Cocktail;1.470 DT
+1736613405-124;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;30CL Pulpe;1.490 DT
+1736613405-125;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;50CL;1.490 DT
+1736613405-126;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;50CL Orange;1.490 DT
+1736613405-127;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;30CL Cocktail tropical...;1.490 DT
+1736613405-128;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;50CL Cidre;1.490 DT
+1736613405-129;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;50CL Lime;1.490 DT
+1736613405-130;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BEYTI;23.5CL Orange;1.490 DT
+1736613405-131;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;APLA;50CL Pomme;1.530 DT
+1736613405-132;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SPRITE;50CL;1.530 DT
+1736613405-133;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;25CL Fraise-Grenade;1.590 DT
+1736613405-134;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;25CL;1.590 DT
+1736613405-135;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;25CL Citron;1.590 DT
+1736613405-136;https://www.geantdrive.tn/tunis-city/10-boissons;Bière sans alcool;CELESTIA;25CL Mojito;1.590 DT
+1736613405-137;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;24CL;1.600 DT
+1736613405-138;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;0.5L Pomme;1.630 DT
+1736613405-139;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;0.5L Cidre;1.630 DT
+1736613405-140;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;0.5L Citron;1.630 DT
+1736613405-141;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;0.5L Orange;1.630 DT
+1736613405-142;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;0.5L Lim;1.630 DT
+1736613405-143;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;0.5L Au pulpe d'orange;1.740 DT
+1736613405-144;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;50CL Agrumes;1.850 DT
+1736613405-145;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;50CL Citron;1.850 DT
+1736613405-146;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;ELBEYA;24CL;1.900 DT
+1736613405-147;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;SUN TOP;250ML Berry mix;1.950 DT
+1736613405-148;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;ARIS;300ML Citron;1.850 DT
+1736613405-149;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;SUN TOP;250ML Mix fruits;1.950 DT
+1736613405-150;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;ARIS;300ML Pêche;1.850 DT
+1736613405-151;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;ARIS;300ML Fruits rouges;1.850 DT
+1736613405-152;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;SUN TOP;250ML Mango;1.950 DT
+1736613405-153;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;ARIS;300ML Pomme;1.850 DT
+1736613405-154;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;ARIS;300ML Ananas;1.850 DT
+1736613405-155;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;STELLA;24CL Gold;2.050 DT
+1736613405-156;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;619;24CL;2.150 DT
+1736613405-157;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;GOLDEN BRAU;24CL;2.150 DT
+1736613405-158;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;STELLA;24CL Black;2.250 DT
+1736613405-159;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;EXTRA DRY;24CL;2.280 DT
+1736613405-160;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1L Lime;2.360 DT
+1736613405-161;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;1L;2.360 DT
+1736613405-162;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1L Cidre;2.360 DT
+1736613405-163;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1L Orange;2.360 DT
+1736613405-164;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1L Sans sucre;2.390 DT
+1736613405-165;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;0.8L Zèro;2.390 DT
+1736613405-166;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1L Orange zéro;2.390 DT
+1736613405-167;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;PRIMAQUA;6L;2.390 DT
+1736613405-168;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1L Citron;2.420 DT
+1736613405-169;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TROPICO;1L;2.420 DT
+1736613405-170;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1L Pêche;2.420 DT
+1736613405-171;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1L Cidre;2.420 DT
+1736613405-172;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;RAOUA;1L Chani;2.420 DT
+1736613405-173;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1L Pomme;2.420 DT
+1736613405-174;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;1L Zéro;2.430 DT
+1736613405-175;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;AMSTEL;24CL;2.440 DT
+1736613405-176;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;CELTIA;24CL;2.450 DT
+1736613405-177;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;HEINEKEN;25CL 0.0;2.450 DT
+1736613405-178;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1L Citron;2.560 DT
+1736613405-179;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;APLA;1L Pomme;2.560 DT
+1736613405-180;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1L Menthe;2.560 DT
+1736613405-181;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1L Pomme;2.560 DT
+1736613405-182;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1L Mojito;2.560 DT
+1736613405-183;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SPRITE;1L;2.560 DT
+1736613405-184;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;1L Ananas;2.560 DT
+1736613405-185;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;80CL Au pulpe d'orange;2.560 DT
+1736613405-186;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;ELBEYA;25CL;2.620 DT
+1736613405-187;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1L Cidre;2.650 DT
+1736613405-188;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1L Pomme;2.650 DT
+1736613405-189;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1L Orange;2.650 DT
+1736613405-190;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1L Citron;2.650 DT
+1736613405-191;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;AMSTEL;25CL;2.690 DT
+1736613405-192;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;CELTIA;25CL;2.730 DT
+1736613405-193;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;1L Agrume;2.750 DT
+1736613405-194;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;1L Citron;2.750 DT
+1736613405-195;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;1L Tonic;2.750 DT
+1736613405-196;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1L Au pulpe d'orange;2.890 DT
+1736613405-197;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson fermentée;SUNSET;24CL Mojito;2.950 DT
+1736613405-198;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson fermentée;SUNSET;24CL Citron-Grenadine;2.950 DT
+1736613405-199;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1.5L Citron;2.990 DT
+1736613405-200;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1.5L Pomme;2.990 DT
+1736613405-201;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1.5L Cidre;2.990 DT
+1736613405-202;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;RAOUA;1.5L Cassis framboise;2.990 DT
+1736613405-203;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;VIVA;1.5L Pêche;2.990 DT
+1736613405-204;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;BECKS;24CL;3.000 DT
+1736613405-205;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;HEINEKEN;24CL;3.070 DT
+1736613405-206;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;1L Mangue;3.090 DT
+1736613405-207;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;1L Tropical Bnino;3.090 DT
+1736613405-208;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;1L Orange;3.090 DT
+1736613405-209;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;1L Cocktail;3.090 DT
+1736613405-210;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TROPICO;1.5L;3.090 DT
+1736613405-211;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;1L Ananas;3.090 DT
+1736613405-212;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;1.5L Zéro;3.130 DT
+1736613405-213;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;750ML Ananas;3.150 DT
+1736613405-214;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;750ML Cocktail;3.150 DT
+1736613405-215;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;750ML Mangue;3.150 DT
+1736613405-216;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;ARIS;750ML Orange;3.150 DT
+1736613405-217;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;BECKS;25CL;3.150 DT
+1736613405-218;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Citron;2.750 DT
+1736613405-219;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Pomme;2.750 DT
+1736613405-220;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Orange;2.750 DT
+1736613405-221;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Cidre;2.750 DT
+1736613405-222;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Raisin;3.190 DT
+1736613405-223;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TROPICO;1L Cocktail de fruits;3.190 DT
+1736613405-224;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1.5L Cidre;3.190 DT
+1736613405-225;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Mojito;3.190 DT
+1736613405-226;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Orange;3.190 DT
+1736613405-227;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;COCA COLA;1.5L;3.190 DT
+1736613405-228;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;DELICE;1L Tropical;3.190 DT
+1736613405-229;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;DELICE;1L Multi Vitaminée;3.190 DT
+1736613405-230;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Poire;3.190 DT
+1736613405-231;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;DELICE;1L Mangue;3.190 DT
+1736613405-232;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Fruits blancs;3.190 DT
+1736613405-233;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Pêche;3.190 DT
+1736613405-234;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DELICE;1L Ananas;3.190 DT
+1736613405-235;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;APLA;1.5L Pomme;3.210 DT
+1736613405-236;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1.5L Citron;3.250 DT
+1736613405-237;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SCHWEPPES;1.5L Ananas;3.250 DT
+1736613405-238;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;BOGA;1.5L Lime;3.250 DT
+1736613405-239;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;SPRITE;1.5L;3.250 DT
+1736613405-240;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;ORANGINA;1.2L Au pulpe d'orange;3.250 DT
+1736613405-241;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1.5L Orange;3.270 DT
+1736613405-242;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;FANTA;1.5L Pomme;3.270 DT
+1736613405-243;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson fermentée;SUNSET;24CL Pêche-Ananas;3.290 DT
+1736613405-244;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DIVA;1L Multi-fruits;3.350 DT
+1736613405-245;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DIVA;1L Ananas;3.350 DT
+1736613405-246;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DIVA;1L Orange;3.350 DT
+1736613405-247;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DIVA;1 L Pomme;3.350 DT
+1736613405-248;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TYMBARK;330ML Cola cherry;2.790 DT
+1736613405-249;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TYMBARK;330ML Lemon lime;2.790 DT
+1736613405-250;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TYMBARK;330ML Mango;2.790 DT
+1736613405-251;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Ananas;3.390 DT
+1736613405-252;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Orange;3.390 DT
+1736613405-253;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Cocktail Tropical...;3.390 DT
+1736613405-254;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TYMBARK;330ML Watermelon;2.790 DT
+1736613405-255;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TYMBARK;330ML Cactus;2.790 DT
+1736613405-256;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;PUNCH;1.5L Mojito;3.390 DT
+1736613405-257;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson gazeuse;TYMBARK;330ML Strawberry;2.790 DT
+1736613405-258;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;HEINEKEN;33CL 0.0;3.490 DT
+1736613405-259;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;LA FRUITIERE;250ML Grenade;3.730 DT
+1736613405-260;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OH;1L Mangue;3.740 DT
+1736613405-261;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OH;1L Orange banane;3.740 DT
+1736613405-262;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OH;1L Berries;3.740 DT
+1736613405-263;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;OH;1L Poire;3.740 DT
+1736613405-264;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;BULL D'OR;25CL;3.790 DT
+1736613405-265;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson fermentée;SUNSET;25CL Fruits rouge Jetable;3.790 DT
+1736613405-266;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson fermentée;SUNSET;25CL Citron-Grenadine...;3.790 DT
+1736613405-267;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;TIGER;250ML;3.150 DT
+1736613405-268;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;HEINEKEN;33CL;4.040 DT
+1736613405-269;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;HEINEKEN;25CL;4.180 DT
+1736613405-270;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;1L Orange;4.490 DT
+1736613405-271;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;1L Mangue;4.490 DT
+1736613405-272;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;1L Pomme;4.490 DT
+1736613405-273;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;OUBOUR LAND;1L Cocktail;4.490 DT
+1736613405-274;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;2L Cocktail;4.850 DT
+1736613405-275;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;STIL;2L Orange;4.850 DT
+1736613405-276;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;POWER HORSE;25CL;4.190 DT
+1736613405-277;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;POWER HORSE;25CL Grenadine;4.190 DT
+1736613405-278;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;RAUCH;355ML Orange rouge;4.950 DT
+1736613405-279;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;RAUCH;355ML Pomme;4.950 DT
+1736613405-280;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;RAUCH;355ML Orange;4.950 DT
+1736613405-281;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;SHARK;25CL;5.230 DT
+1736613405-282;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergitique;SHARK;25CL Stimulation;5.230 DT
+1736613405-283;https://www.geantdrive.tn/tunis-city/10-boissons;Eau minérale;PRIMAQUA;19L - Sans consigne;5.300 DT
+1736613405-284;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;HEINEKEN;50CL;5.470 DT
+1736613405-285;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;EXO MIX;25CL Orange 18% Vol;5.490 DT
+1736613405-286;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;EXO MIX;25CL Energy 18% Vol;5.490 DT
+1736613405-287;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif anisé;BERGER;12.5CL;5.490 DT
+1736613405-288;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;VITRAC;1L Pomme;5.890 DT
+1736613405-289;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;VITRAC;1L Orange;5.890 DT
+1736613405-290;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;VITRAC;1L Ananas-Orange;5.890 DT
+1736613405-291;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;CODY'S;25CL Mix energy 18%...;5.990 DT
+1736613405-292;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;CODY'S;25CL Mix energy 18%...;5.990 DT
+1736613405-293;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;REDBULL;25CL;5.990 DT
+1736613405-294;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BEYTI;1L Orange;6.430 DT
+1736613405-295;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BEYTI;1L Guava;6.430 DT
+1736613405-296;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BEYTI;1L Cocktail;6.430 DT
+1736613405-297;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BEYTI;1L Mangue;6.430 DT
+1736613405-298;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BEYTI;1L Pineapple;6.430 DT
+1736613405-299;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;RAUCH;355ML Mangue;6.490 DT
+1736613405-300;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;MANGOUSTAN;25CL Cola;4.390 DT
+1736613405-301;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;MANGOUSTAN;25CL Café;6.890 DT
+1736613405-302;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;EPERON;25CL Cola;4.290 DT
+1736613405-303;https://www.geantdrive.tn/tunis-city/10-boissons;Pur jus;DIVA;1L 100% Orange;5.590 DT
+1736613405-304;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;RANI;2L Cocktail de fruits;7.450 DT
+1736613405-305;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;RANI;2L Orange;7.450 DT
+1736613405-306;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé VCC;HAUT MORNAG;37.5CL;7.490 DT
+1736613405-307;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TYMBARK;1L;7.790 DT
+1736613405-308;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TYMBARK;1L;7.790 DT
+1736613405-309;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TYMBARK;1L;7.790 DT
+1736613405-310;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TYMBARK;1L;7.790 DT
+1736613405-311;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TYMBARK;1L;7.790 DT
+1736613405-312;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;TYMBARK;1L;7.790 DT
+1736613405-313;https://www.geantdrive.tn/tunis-city/10-boissons;Jus de fraise;BOQUERIA;1L;7.800 DT
+1736613405-314;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SL KIXXY;27.5CL Tonic;7.980 DT
+1736613405-315;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SL KIXXY;27.5CL Lemon;7.980 DT
+1736613405-316;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SL KIXXY;27.5CL Energy;7.980 DT
+1736613405-317;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SL KIXXY;27.5CL Ananas;7.980 DT
+1736613405-318;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;FLEUR DE MORNAG;37.5CL AOC;8.400 DT
+1736613405-319;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;FLEUR DE MORNAG;37.5CL Aoc;8.790 DT
+1736613405-320;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;AL MARAI;1L Orange;8.590 DT
+1736613405-321;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;CHATEAU MARIA;37.5CL;9.300 DT
+1736613405-322;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CHATEAU MARIA;37.5CL;9.300 DT
+1736613405-323;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;CHATEAU MARIA;37.5CL AOC;9.790 DT
+1736613405-324;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;GRIS DE BOU ARGOUB;37.5CL;9.960 DT
+1736613405-325;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CHÂTEAU BOUARGOUB;37.5CL;9.960 DT
+1736613405-326;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;CHÂTEAU BOUARGOUB;37.5CL Aoc;9.960 DT
+1736613405-327;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Orgeat;10.690 DT
+1736613405-328;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L pistache;10.690 DT
+1736613405-329;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Menthe;10.690 DT
+1736613405-330;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;1L Ananas;9.590 DT
+1736613405-331;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Grenadine;10.690 DT
+1736613405-332;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;1L Ananas-Orange;9.590 DT
+1736613405-333;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;1L Citron;9.590 DT
+1736613405-334;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;1L Orgeat citron;9.590 DT
+1736613405-335;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;1L Fraise;9.590 DT
+1736613405-336;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;PRESTIGE DE MORNAG;37.5CL Aoc;10.960 DT
+1736613405-337;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BRAVO;1L Raisin rouge;10.990 DT
+1736613405-338;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BRAVO;1L Orange;10.990 DT
+1736613405-339;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BRAVO;1L Melon-Ananas;10.990 DT
+1736613405-340;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;BRAVO;1L Vitamine A.C et E;10.990 DT
+1736613405-341;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Citron;11.090 DT
+1736613405-342;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Fruits kiwi;11.090 DT
+1736613405-343;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Citron;11.090 DT
+1736613405-344;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Citron et menthe;11.090 DT
+1736613405-345;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Orange;11.090 DT
+1736613405-346;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Cocktail;11.090 DT
+1736613405-347;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Ananas;11.090 DT
+1736613405-348;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;1L Fraise;11.090 DT
+1736613405-349;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Pistache;11.190 DT
+1736613405-350;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Orgeat;11.190 DT
+1736613405-351;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Menthe;11.190 DT
+1736613405-352;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;1L Grenadine;11.190 DT
+1736613405-353;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge VCC;HAUT MORNAG;75CL;11.900 DT
+1736613405-354;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Cocktail;11.900 DT
+1736613405-355;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rose VVC;SEMMECHE;75CL;7.990 DT
+1736613405-356;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Orange;11.900 DT
+1736613405-357;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;KOUDIA SELECTIONE;75CL;9.790 DT
+1736613405-358;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé VCC;MORNAG;75CL;11.500 DT
+1736613405-359;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge VVC;SEMMECHE;75CL;9.490 DT
+1736613405-360;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Mangue;11.900 DT
+1736613405-361;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Kiwi;11.900 DT
+1736613405-362;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Fraise;11.900 DT
+1736613405-363;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Poire;11.900 DT
+1736613405-364;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Citron;11.900 DT
+1736613405-365;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Ananas;11.900 DT
+1736613405-366;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentré;TEJ;1L Citron Amande;11.900 DT
+1736613405-367;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;SIDI RAIS;75CL;12.490 DT
+1736613405-368;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;SIDI RAIS;75CL;12.490 DT
+1736613405-369;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;PRESTIGE;20CL;12.490 DT
+1736613405-370;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc VCC;LA VAGUE;75CL;12.500 DT
+1736613405-371;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge VCC;LA VAGUE;75CL;12.500 DT
+1736613405-372;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail prêt à boire;PUNCH CLUB!;250ML Gin & Tonic;10.990 DT
+1736613405-373;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail prêt à boire;PUNCH CLUB!;250ML Mango & Passion...;10.990 DT
+1736613405-374;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail prêt à boire;PUNCH CLUB!;250ML Mojito classico;10.990 DT
+1736613405-375;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail prêt à boire;PUNCH CLUB!;250ML Moscow mule;10.990 DT
+1736613405-376;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail prêt à boire;PUNCH CLUB!;250ML Rhum cola artesano;10.990 DT
+1736613405-377;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail prêt à boire;PUNCH CLUB!;250ML Yuzu & Ginger;10.990 DT
+1736613405-378;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson alcoolisée;SMIRNOFF;27.5CL Ice;12.800 DT
+1736613405-379;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;619;6x24CL;12.900 DT
+1736613405-380;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;MAGON;37.5CL;12.990 DT
+1736613405-381;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;MAGON;37.5CL;12.990 DT
+1736613405-382;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé VCC;LA VAGUE;75CL;12.500 DT
+1736613405-383;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé VCC;HAUT MORNAG;75CL;12.990 DT
+1736613405-384;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;MAGON;37.5CL;12.990 DT
+1736613405-385;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;HAZEM;1L Arôme pistache;13.060 DT
+1736613405-386;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;SIDI RAIS;75CL;13.390 DT
+1736613405-387;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;FLEUR DE MORNAG;75CL;13.490 DT
+1736613405-388;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;0.75L Chocolat;13.490 DT
+1736613405-389;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;0.75L Vanille;13.490 DT
+1736613405-390;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;0.75L Cerise;13.490 DT
+1736613405-391;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;JAWHARA;0.75L Framboise;13.490 DT
+1736613405-392;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;SIX DOUZE;75CL;13.600 DT
+1736613405-393;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge VCC;FLEUR DE MORNAG;75CL;13.690 DT
+1736613405-394;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;TEJ;1L Grenadine;9.990 DT
+1736613405-395;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;TEJ;1L Pistache;9.990 DT
+1736613405-396;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;TEJ;1L Orgeat;9.990 DT
+1736613405-397;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;KOUDIAT SELECTIONNE;75CL Reserve;13.690 DT
+1736613405-398;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé VCC;MALOUF;75CL;14.400 DT
+1736613405-399;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;LE BARON;75CL;14.650 DT
+1736613405-400;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;PRINCE DE TUNISIE;75CL;13.690 DT
+1736613405-401;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;GRAINE D'AMOUR;75CL;15.400 DT
+1736613405-402;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;20CL Nature;15.490 DT
+1736613405-403;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé VCC;SALAMMBO;75CL;15.820 DT
+1736613405-404;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CHATEAUX CAP BON;75CL;13.990 DT
+1736613405-405;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;PRINCESSE DE TUNISIE;75CL;15.900 DT
+1736613405-406;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;PRINCE DE TUNISIE;75CL;13.690 DT
+1736613405-407;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;APHRODITE;75CL AOC;15.900 DT
+1736613405-408;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;SELIAN;37.5CL;15.950 DT
+1736613405-409;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;SELIAN;37.5CL;15.950 DT
+1736613405-410;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;PRINCESSE DE TUNISIE;75CL;15.990 DT
+1736613405-411;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;CLIN D'OIL;75CL;15.990 DT
+1736613405-412;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;MUSCAT DU CAP BON;75CL;14.590 DT
+1736613405-413;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;LE GRAND CHÂTEAU BOUARGOUB;75CL;15.990 DT
+1736613405-414;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc VCC;SALAMMBO;75CL;15.990 DT
+1736613405-415;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge VCC;SALAMMBO;75CL;15.990 DT
+1736613405-416;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;PRINCE DE TUNISIE;75CL;14.990 DT
+1736613405-417;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;APHRODITE;75CL;15.900 DT
+1736613405-418;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;PRADO;50CL;16.370 DT
+1736613405-419;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;TRADITION;75CL;16.490 DT
+1736613405-420;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;HUNTING LODGE;20CL;16.490 DT
+1736613405-421;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;HUNTING LODGE;20CL;16.490 DT
+1736613405-422;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc VCC;CLOS MORNAG;75CL;16.500 DT
+1736613405-423;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;KANGUET;75CL;16.500 DT
+1736613405-424;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;APHRODITE;75CL;16.590 DT
+1736613405-425;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;USCAT BOUARGOUB;75CL;16.590 DT
+1736613405-426;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;BOUARGOUB;75CL;14.990 DT
+1736613405-427;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;DALIA;75CL;13.190 DT
+1736613405-428;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;PRADO;70CL;16.900 DT
+1736613405-429;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;CLOS MORNAG;75CL;16.900 DT
+1736613405-430;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;DI DI;250ML Citron;3.290 DT
+1736613405-431;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;DI DI;250ML Pêche;3.290 DT
+1736613405-432;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson ice tea;DI DI;250ML Bergamotte;3.290 DT
+1736613405-433;https://www.geantdrive.tn/tunis-city/10-boissons;Bière;BECKS;30CL;3.300 DT
+1736613405-434;https://www.geantdrive.tn/tunis-city/10-boissons;Jus 100% naturel;NATURA;25CL Grenade;3.350 DT
+1736613405-435;https://www.geantdrive.tn/tunis-city/10-boissons;Jus 100% naturel;NATURA;25CL Pêche;3.350 DT
+1736613405-436;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;DIVA;1L Multivitamines;3.350 DT
+1736613405-437;https://www.geantdrive.tn/tunis-city/10-boissons;Jus 100% naturel;NATURA;25CL Raisin;3.350 DT
+1736613405-438;https://www.geantdrive.tn/tunis-city/10-boissons;Jus 100% naturel;NATURA;25CL Raisin rouge;3.350 DT
+1736613405-439;https://www.geantdrive.tn/tunis-city/10-boissons;Jus 100% naturel;NATURA;25CL Pomme;3.350 DT
+1736613405-440;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;DIVA;1L Mangue;3.350 DT
+1736613405-441;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;GRANITA;1L Pêche;3.390 DT
+1736613405-442;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;GRANITA;1L Poire;3.390 DT
+1736613405-443;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;HELL;25CL Classic;3.690 DT
+1736613405-444;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;HELL;25CL Raisin rouge;3.690 DT
+1736613405-445;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson énergétique;HELL;25CL Pomme;3.690 DT
+1736613405-446;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;DIVA;1L Pêche;3.690 DT
+1736613405-447;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;LA FRUITIERE;250ML Pomme;3.730 DT
+1736613405-448;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;LA FRUITIERE;250ML Tropical;3.730 DT
+1736613405-449;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;LA FRUITIERE;250ML Orange;3.730 DT
+1736613405-450;https://www.geantdrive.tn/tunis-city/10-boissons;Nectar;LA FRUITIERE;250ML Ananas;3.730 DT
+1736613405-451;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;LA FRUITIERE;250ML Pêche;3.730 DT
+1736613405-452;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson au jus;LA FRUITIERE;250ML Menthe - Citron;3.730 DT
+1736613405-453;https://www.geantdrive.tn/tunis-city/10-boissons;Pur jus;DIVA;1L Orange;3.790 DT
+1736613405-454;https://www.geantdrive.tn/tunis-city/10-boissons;Pur jus;DIVA;1L Pomme;3.790 DT
+1736613405-455;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;LA FRUITIERE;700ML Arôme de Kiwi -...;22.400 DT
+1736613405-456;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;CHATEAU DE FLEUR;75CL;22.490 DT
+1736613405-457;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;CHATEAU DE FLEUR;75CL;22.490 DT
+1736613405-458;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CHATEAU DE FLEUR;75CL;22.490 DT
+1736613405-459;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;VINUM;75CL;22.900 DT
+1736613405-460;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;VIEILLE CAVE;75CL;23.000 DT
+1736613405-461;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;PRINCESSE;75CL;23.050 DT
+1736613405-462;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum blanc;CENTURY OLD HOUSE;70CL;23.400 DT
+1736613405-463;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;LA FRUITIERE;700ML Arôme de vanille;23.460 DT
+1736613405-464;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;MAGON;75CL;23.490 DT
+1736613405-465;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;PRESTIGE;75CL;23.490 DT
+1736613405-466;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;MAGNUM;75CL;23.900 DT
+1736613405-467;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FLIRT;50CL Nature;23.900 DT
+1736613405-468;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;MAGNUM;75CL;23.900 DT
+1736613405-469;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;MAGNUM;75CL;23.900 DT
+1736613405-470;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;DUNE CHARDONNY;75CL;23.990 DT
+1736613405-471;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;TERRALE;75CL;23.990 DT
+1736613405-472;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;TERRALE;75CL;23.990 DT
+1736613405-473;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;SYRAH;75CL;23.990 DT
+1736613405-474;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;GOLD FINGER;75CL;24.000 DT
+1736613405-475;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;PHENICIA;75CL;24.490 DT
+1736613405-476;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;VINUM;75CL;24.490 DT
+1736613405-477;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;PHENICIA;75CL;24.590 DT
+1736613405-478;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;MUSCAT;75CL;23.990 DT
+1736613405-479;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;SYRAH MARSELAN;75CL;24.900 DT
+1736613405-480;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;GRIS GLAMOUR;75CL;24.900 DT
+1736613405-481;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;LABEL 5;20CL;24.900 DT
+1736613405-482;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF;20CL Red;25.000 DT
+1736613405-483;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;MINKOVA;1L 37D5;25.900 DT
+1736613405-484;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;CHARDONNAY;75CL;25.900 DT
+1736613405-485;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;CHARDONNAY;75CL The great white;25.900 DT
+1736613405-486;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;MUSCAT;75CL The mad cat;25.900 DT
+1736613405-487;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;CLIPEA;75CL;26.490 DT
+1736613405-488;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;MAGON SIGNATURE;75CL;26.490 DT
+1736613405-489;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;MAGON SIGNATURE;75CL;24.900 DT
+1736613405-490;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;CLOS DE CARTHAGE;75CL;26.900 DT
+1736613405-491;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;PP;1L 40D;27.300 DT
+1736613405-492;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;PRADO;100CL;27.590 DT
+1736613405-493;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;PRISKAIA;100CL;27.600 DT
+1736613405-494;https://www.geantdrive.tn/tunis-city/10-boissons;Spiritueux;EPERON;100CL;27.800 DT
+1736613405-495;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;LORD LEMOND;1L 40D;27.800 DT
+1736613405-496;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;3L Orgeat-citron;27.900 DT
+1736613405-497;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;HARPOON;100CL;27.900 DT
+1736613405-498;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;BOUGENE;75CL Clos brignon;27.900 DT
+1736613405-499;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;JAWHARA;3L Cocktail;27.900 DT
+1736613405-500;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;PETALE DE ROSE;75CL;27.990 DT
+1736613405-501;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;LORD PERKINS;50CL;27.990 DT
+1736613405-502;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;20CL Blue;27.990 DT
+1736613405-503;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CLOS DE CARTHAGE;75CL;28.500 DT
+1736613405-504;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;CLOS DE CARTHAGE;75CL;28.500 DT
+1736613405-505;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;BOUGENE;75CL Passion;28.900 DT
+1736613405-506;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;RUSKOV;1L;28.900 DT
+1736613405-507;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;BAÏTA;100CL Ambré;29.500 DT
+1736613405-508;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;BAÏTA;100CL Blanc;29.500 DT
+1736613405-509;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CLAN MAC GREGOR;75CL;29.800 DT
+1736613405-510;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;PETALE;75CL;29.900 DT
+1736613405-511;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;CUVEE CHASSEURS;75CL;29.900 DT
+1736613405-512;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;MUDCAD OR;75CL;29.900 DT
+1736613405-513;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;50CL Nature;29.900 DT
+1736613405-514;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;GHARAM;75CL;30.490 DT
+1736613405-515;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;GHARAM;75CL;30.490 DT
+1736613405-516;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;CHÂTEAU LICARI;75CL;30.890 DT
+1736613405-517;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;BLACK RAM;50CL;30.990 DT
+1736613405-518;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;DESIR;75CL;31.000 DT
+1736613405-519;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;BOUDDHA'S;1L;31.490 DT
+1736613405-520;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SULKA;1L;31.490 DT
+1736613405-521;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;GHARAM;75CL;31.490 DT
+1736613405-522;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DIVINE;1L Nature;31.500 DT
+1736613405-523;https://www.geantdrive.tn/tunis-city/10-boissons;Boukha;SOLEIL;50CL;31.500 DT
+1736613405-524;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;SELIAN;75CL;31.590 DT
+1736613405-525;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;MYSTERE SELIAN;75CL;31.590 DT
+1736613405-526;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;SELIAN;75CL;31.590 DT
+1736613405-527;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CUVE MAGNIFIQUE;75CL;32.290 DT
+1736613405-528;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;DISTINTO;75CL;32.290 DT
+1736613405-529;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;ST INTO;75CL;32.290 DT
+1736613405-530;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;PHENICIA;75CL;22.390 DT
+1736613405-531;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;SELIAN;75CL;32.690 DT
+1736613405-532;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;KURUBIS;50CL Chardonnay 12.5°;32.900 DT
+1736613405-533;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;MUSCAT;75CL Sec kerkouane;32.900 DT
+1736613405-534;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;JOUR ET NUIT;75CL Nostalgie;32.900 DT
+1736613405-535;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;TRANSPARENT;75CL;32.900 DT
+1736613405-536;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;GRANT'S;35CL Triple wood;32.900 DT
+1736613405-537;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;KURUBIS;50CL Marselon syrah 13.5°;32.900 DT
+1736613405-538;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SACHA;70CL Pêche;32.990 DT
+1736613405-539;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SACHA;70CL Pomme;32.990 DT
+1736613405-540;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SACHA;70CL Vanille;32.990 DT
+1736613405-541;https://www.geantdrive.tn/tunis-city/10-boissons;Sirop;HAZEM;1L Pistache;32.990 DT
+1736613405-542;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FLIRT;1L Nature;32.990 DT
+1736613405-543;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SACHA;70CL Mandarine;32.990 DT
+1736613405-544;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BELUGA;100CL Pear;31.400 DT
+1736613405-545;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;PASTISSON MARSEILLE;50CL;33.590 DT
+1736613405-546;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;MUSCAT DE TUNISIE;75CL;33.990 DT
+1736613405-547;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;BALLENTINE'S;20CL Finest;33.990 DT
+1736613405-548;https://www.geantdrive.tn/tunis-city/10-boissons;Boukha;GOLD;50CL;33.990 DT
+1736613405-549;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;4L Citron;34.900 DT
+1736613405-550;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;SOLTANE BY KURUBIS;75CL 13.5°;34.900 DT
+1736613405-551;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;SOLTANE BY KURUBIS;75CL 13°;34.900 DT
+1736613405-552;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;4L Ananas;34.900 DT
+1736613405-553;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;SELIAN;75CL;34.990 DT
+1736613405-554;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMES DOWELL;70CL 40D;35.100 DT
+1736613405-555;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Crème de banane;35.600 DT
+1736613405-556;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Crème de cacao;35.600 DT
+1736613405-557;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Crème curacao bleu;35.600 DT
+1736613405-558;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Crème de pêche;35.600 DT
+1736613405-559;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Crème de cassis;35.600 DT
+1736613405-560;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Curacao triple sec;35.600 DT
+1736613405-561;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;JULIA;75CL;35.900 DT
+1736613405-562;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;JOUR ET NUIT MUSCAT;75CL AOC;35.900 DT
+1736613405-563;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;VIEUX MAGON;75CL;35.990 DT
+1736613405-564;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;LORD PERKINS;70CL;36.300 DT
+1736613405-565;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DIVINE;1L Fraise;36.300 DT
+1736613405-566;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DIVINE;1L Vanille;36.300 DT
+1736613405-567;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DIVINE;1L Citron;36.300 DT
+1736613405-568;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;SIR EDWARD'S;50CL;36.760 DT
+1736613405-569;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;VERDEJO;75CL;36.900 DT
+1736613405-570;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;4L Arôme grenadine;36.900 DT
+1736613405-571;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;4L Arôme pistache;36.900 DT
+1736613405-572;https://www.geantdrive.tn/tunis-city/10-boissons;Boisson concentrée;HAZEM;4L Arôme menthe;36.900 DT
+1736613405-573;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;WILLIAM PEEL;75CL;36.990 DT
+1736613405-574;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;BOUGENE;75CL Vermentino;37.900 DT
+1736613405-575;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;CHOPIN;75CL;37.900 DT
+1736613405-576;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;MARIE BIZARD;70CL Tripple sec;37.900 DT
+1736613405-577;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DEMANDIS;70CL Amaretto;37.900 DT
+1736613405-578;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;CHOPIN;75CL Muscat;37.900 DT
+1736613405-579;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CHOPIN;75CL;37.900 DT
+1736613405-580;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;CRU DIDONA;75CL AOC;37.900 DT
+1736613405-581;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;JOUR ET NUIT;75CL Amour;37.900 DT
+1736613405-582;https://www.geantdrive.tn/tunis-city/10-boissons;Vermouth;PHOENIX DISTILLERY;1L Bianco;37.990 DT
+1736613405-583;https://www.geantdrive.tn/tunis-city/10-boissons;Mousseux aromatisé;TROCADERO;75CL Pêche;38.990 DT
+1736613405-584;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;DUVAL;1L;38.990 DT
+1736613405-585;https://www.geantdrive.tn/tunis-city/10-boissons;Mousseux;TROCADERO;75CL Sunset;38.990 DT
+1736613405-586;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;BARDINET;70CL Brandy napoleon;39.240 DT
+1736613405-587;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;FELIX HABIB;70CL De cassis;36.990 DT
+1736613405-588;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;FELIX HABIB;70CL De banane;36.990 DT
+1736613405-589;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;FELIX HABIB;70CL De cacao;36.990 DT
+1736613405-590;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;DIDONA;75CL;39.900 DT
+1736613405-591;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70CL 37D5;39.900 DT
+1736613405-592;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;0.5L Original 40;39.900 DT
+1736613405-593;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;SOCCARON;1L Blanc;40.500 DT
+1736613405-594;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;MANGOUSTAN'S;1L Blanc;40.630 DT
+1736613405-595;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;MANGOUSTAN'S;1L Ambre;40.630 DT
+1736613405-596;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;J&B;20CL Rare;41.000 DT
+1736613405-597;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CRU DIDONA;75CL;41.200 DT
+1736613405-598;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;MILHSON;1L Spirit;38.900 DT
+1736613405-599;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;MINKOVA;70CL H. bison;41.900 DT
+1736613405-600;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;D.SHADRAPA;75CL;41.900 DT
+1736613405-601;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;0.5L Original 50D;41.900 DT
+1736613405-602;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;MARTINI;50CL Rosso;41.900 DT
+1736613405-603;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;KINGSTON;1 L;41.990 DT
+1736613405-604;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;KIPRINSKI;1L;41.990 DT
+1736613405-605;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;JEAN CANON;1 L;41.990 DT
+1736613405-606;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;HANAPPIER;1L Spirit;39.990 DT
+1736613405-607;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;SIR EDWARD'S;70CL;42.990 DT
+1736613405-608;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;KALINKA;1L;42.990 DT
+1736613405-609;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BOUCHARD;70CL Brandy;43.490 DT
+1736613405-610;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Strawberry;43.900 DT
+1736613405-611;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Caramel;43.900 DT
+1736613405-612;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Mandarine;40.990 DT
+1736613405-613;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FLIRT;1L Green apple;43.900 DT
+1736613405-614;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Green appel;43.900 DT
+1736613405-615;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Peach;43.900 DT
+1736613405-616;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;KISS BY KURUBIS;75CL 12.5°/13.5°;43.900 DT
+1736613405-617;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Cranberry;43.900 DT
+1736613405-618;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;MAGON ROYALE ECOLOGIQUE RESERVIN;75CL;43.900 DT
+1736613405-619;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;70Cl Lemon;43.900 DT
+1736613405-620;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;POLIAKOV;1 L Nature;43.970 DT
+1736613405-621;https://www.geantdrive.tn/tunis-city/10-boissons;Granola;NEW FOOD;Conditionné par 100g;44.900 DT/ Kg
+1736613405-622;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;KURUBIS;75CL Marselon syrah 13.5°;44.900 DT
+1736613405-623;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc AOC;KURUBIS;75CL Chardonnay 12.5°;44.900 DT
+1736613405-624;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;VERMOUTH ROSSO;100CL;44.990 DT
+1736613405-625;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;GIBSON'S;70CL Orange;44.990 DT
+1736613405-626;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;FELIX HABIB;100CL Vermouth bianco;44.990 DT
+1736613405-627;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;MARIE BIZARD;70CL Pastèque;45.900 DT
+1736613405-628;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;GIBSON S;70CL Pink;45.990 DT
+1736613405-629;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;CUERPO;70CL Blanc;45.990 DT
+1736613405-630;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMES DOWELL;1L 40D;46.400 DT
+1736613405-631;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;MARTINI;50CL Bianco;46.900 DT
+1736613405-632;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;LABEL 5;50CL;46.990 DT
+1736613405-633;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;GRANT'S;50CL Triple wood;46.990 DT
+1736613405-634;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;FELIX HABIB;70CL De menthe;47.000 DT
+1736613405-635;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;JANOKA;100CL;47.390 DT
+1736613405-636;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;TSARINE;70CL Mandarine;47.490 DT
+1736613405-637;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;RAMANOFF;70CL;45.990 DT
+1736613405-638;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF;50CL Red;47.990 DT
+1736613405-639;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;BOUGENE;75CL Emotion;48.900 DT
+1736613405-640;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;BOUGENE;75CL Reserve;48.900 DT
+1736613405-641;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;MAY FAIR;70CL;48.900 DT
+1736613405-642;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;RICARD;50CL;49.000 DT
+1736613405-643;https://www.geantdrive.tn/tunis-city/10-boissons;Cachaca;AGUACANA;70CL;47.990 DT
+1736613405-644;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;THIBARINE;75CL;49.490 DT
+1736613405-645;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;CORDIAL BRANDY DRY;70CL;49.490 DT
+1736613405-646;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum blanc;VERNON;70CL;46.990 DT
+1736613405-647;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;VERNON;70CL Brun;46.990 DT
+1736613405-648;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;GIBSON'S;70CL 37D5;49.900 DT
+1736613405-649;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur à base de vodka;JANOKA;100CL;50.390 DT
+1736613405-650;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur à base de vodka;JANOKA;100CL Fragola;50.390 DT
+1736613405-651;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;WHITMAN;100CL;50.390 DT
+1736613405-652;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur à base de vodka;JANOKA;100CL Pesca;50.390 DT
+1736613405-653;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;ROYAL CRESCENT;1L Spirit;39.990 DT
+1736613405-654;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;BARDINET;70CL De framboise;50.750 DT
+1736613405-655;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;BARDINET;70CL Sour apple;50.750 DT
+1736613405-656;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;BARDINET;70CL De fraise;50.750 DT
+1736613405-657;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur de Curacao Bleu;BARDINET;70CL;50.750 DT
+1736613405-658;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;BARDINET;70CL De menthe;50.750 DT
+1736613405-659;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;BARDINET;70CL De triple sec;50.750 DT
+1736613405-660;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;BARDINET;70CL D'Amaretto;50.750 DT
+1736613405-661;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;BARDINET;70CL De banane;50.750 DT
+1736613405-662;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;DISTINTO VIEUX;75CL;50.900 DT
+1736613405-663;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;CACHACA;70CL De cannes à sucre;50.990 DT
+1736613405-664;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;TSARINE;70CL;47.990 DT
+1736613405-665;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;ISLA ANTIGUA;100CL Blanc 37.5D;51.490 DT
+1736613405-666;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé AOC;CRAZY BY KURUBIS;75CL 13°;51.900 DT
+1736613405-667;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;HURRICANE;70CL Liqueur triple...;51.900 DT
+1736613405-668;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;HURRICANE;70CL Liqueur de blue...;51.900 DT
+1736613405-669;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;HURRICANE;70CL Elderflower;51.900 DT
+1736613405-670;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;HURRICANE;70CL De vanille 18D;51.900 DT
+1736613405-671;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;70CL Nature;51.990 DT
+1736613405-672;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;SIR EDWARD;1 L;52.900 DT
+1736613405-673;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;BARDINET;70CL De cacao;52.900 DT
+1736613405-674;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;NATURE BY KURUBIS;75CL Sans sulfate...;52.900 DT
+1736613405-675;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ERISTOFF;70CL 37D5;53.100 DT
+1736613405-676;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;TSARINE;70CL Citron;47.490 DT
+1736613405-677;https://www.geantdrive.tn/tunis-city/10-boissons;Crème;FELIX HABIB;70CL De curaçao;53.600 DT
+1736613405-678;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DILLON;70CL Punch planteur;54.410 DT
+1736613405-679;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;DILLON;70CL Punch planteur;54.410 DT
+1736613405-680;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;20CL Red label;55.900 DT
+1736613405-681;https://www.geantdrive.tn/tunis-city/10-boissons;Crème de whisky;BEAUTIFUL;70CL 17D;55.900 DT
+1736613405-682;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;KAPRICE BY KURUBIS;75CL 14.5°;55.900 DT
+1736613405-683;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;PIMM'S;75CL Gin;56.200 DT
+1736613405-684;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;ANISE;1L;56.500 DT
+1736613405-685;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACKY TENNESSE;1 L;56.600 DT
+1736613405-686;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;PERLINO;100CL Vermouth extra...;56.900 DT
+1736613405-687;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;NICKOLSON;100CL;56.900 DT
+1736613405-688;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;VILLA CARDEA;100CL Bitter 25D;56.900 DT
+1736613405-689;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;PERLINO;100CL Vermouth rouge 15D;56.900 DT
+1736613405-690;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;THIBARINE LUXE;75CL;57.990 DT
+1736613405-691;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;PLATINUM;1 L Natural;58.990 DT
+1736613405-692;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;LACARDI;1L Red gold;59.500 DT
+1736613405-693;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;GIBSON;1 L;59.900 DT
+1736613405-694;https://www.geantdrive.tn/tunis-city/10-boissons;Crème de limoncello;VILLA CARDEA;50CL;59.990 DT
+1736613405-695;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ZUBROWKA BIALA;1L 37 5D;60.500 DT
+1736613405-696;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;OROLF;100CL;58.990 DT
+1736613405-697;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;BELLE CANNE;1L Ambre;60.900 DT
+1736613405-698;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;PASTISSON MARSEILLE;100CL;60.990 DT
+1736613405-699;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail;DIVA DI SERA;75CL Peach & moscata;61.900 DT
+1736613405-700;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BELVEDERE;20CL Pure;61.900 DT
+1736613405-701;https://www.geantdrive.tn/tunis-city/10-boissons;Cocktail;DIVA DI SERA;75CL Pineapple & moscato;61.900 DT
+1736613405-702;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;MC DOWELL AND SONS;100CL;58.990 DT
+1736613405-703;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;CEDRATINE;1L;62.500 DT
+1736613405-704;https://www.geantdrive.tn/tunis-city/10-boissons;Vin grenache blanc AOC;WINE SHOT BY KURUBIS;75CL 13.5°;62.900 DT
+1736613405-705;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;WINE SHOT BY KURUBIS;75CL 12.5°;62.900 DT
+1736613405-706;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;DIVA DI SERA;75CL Cherry Moscato;62.900 DT
+1736613405-707;https://www.geantdrive.tn/tunis-city/10-boissons;Apéritif;DIVA DI SERA;75CL Mango Moscato;62.900 DT
+1736613405-708;https://www.geantdrive.tn/tunis-city/10-boissons;Anisette;SAINT SYLVAIN;1 L;59.990 DT
+1736613405-709;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;JOUR ET NUIT;150CL Amour;63.990 DT
+1736613405-710;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FINLANDIA;70Cl Cranberry;64.900 DT
+1736613405-711;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;BELLE CANNE;1L Blanc;64.900 DT
+1736613405-712;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FINLANDIA;70Cl Mango;64.900 DT
+1736613405-713;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FINLANDIA;70Cl Currant;64.900 DT
+1736613405-714;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;FINLANDIA;70Cl Limon;64.900 DT
+1736613405-715;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;OLD NICK;70CL Mojito;65.990 DT
+1736613405-716;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;GREY GOOSE;20CL;66.900 DT
+1736613405-717;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT BLUE;50CL Rosemay;66.900 DT
+1736613405-718;https://www.geantdrive.tn/tunis-city/10-boissons;Coffret;SELIAN;2x75CL Vin rouge;66.900 DT
+1736613405-719;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CUTTY SARK;1L;67.190 DT
+1736613405-720;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;ISLA ANTIGUA;100CL Noir 37.5D;67.690 DT
+1736613405-721;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;70CL;68.000 DT
+1736613405-722;https://www.geantdrive.tn/tunis-city/10-boissons;Coffret;SELIAN;2x75CL Vin blanc et rosé;68.500 DT
+1736613405-723;https://www.geantdrive.tn/tunis-city/10-boissons;Coffret;MAGNIFIQUE;2x75CL Vin rouge;69.900 DT
+1736613405-724;https://www.geantdrive.tn/tunis-city/10-boissons;Coffret;MAGNIFIQUE;2x75CL Vin blanc et rosé;69.900 DT
+1736613405-725;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;NEGRITA;1L Anejo riserva;69.990 DT
+1736613405-726;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;ECOSSAIS OLD SMUGGLER;70CL Reveal sequin;64.900 DT
+1736613405-727;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;ANTICA SAMBUCA;70CL Classic;70.600 DT
+1736613405-728;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;OYAT;70CL;71.690 DT
+1736613405-729;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;LABEL 5;1 L;71.900 DT
+1736613405-730;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Nature;71.990 DT
+1736613405-731;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;BALLANTINE'S FINEST;50CL;72.990 DT
+1736613405-732;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Razberi;72.990 DT
+1736613405-733;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Orange;72.990 DT
+1736613405-734;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Cucumber;72.990 DT
+1736613405-735;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Citron;72.990 DT
+1736613405-736;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Blueberi;72.990 DT
+1736613405-737;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Vanille;72.990 DT
+1736613405-738;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;MÂCON;150CL Lamartine lapalus;73.500 DT
+1736613405-739;https://www.geantdrive.tn/tunis-city/10-boissons;Coffret;SELIAN;2x75CL Vin rouge et blanc;74.500 DT
+1736613405-740;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SKAYY;70Cl Rasberry;74.900 DT
+1736613405-741;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SKAYY;70Cl Citron;74.900 DT
+1736613405-742;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SKAYY;70Cl Passion fruit;74.900 DT
+1736613405-743;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SKAYY;70Cl Nature;74.900 DT
+1736613405-744;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;RICARD;70CL Plantes fraîches;76.900 DT
+1736613405-745;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;APEROL ERITIVO;70CL;76.900 DT
+1736613405-746;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;51;1 L;77.500 DT
+1736613405-747;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;PERNOD;1 L;77.900 DT
+1736613405-748;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;JOSEPH MELLOT DESTINEA;75CL 2019;78.400 DT
+1736613405-749;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;VAT 69;1 L;77.900 DT
+1736613405-750;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Grapefruit 40;79.300 DT
+1736613405-751;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Original 40;79.300 DT
+1736613405-752;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Original 50;79.300 DT
+1736613405-753;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Apple 40;79.300 DT
+1736613405-754;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Citrus 40;79.300 DT
+1736613405-755;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Cranraz 40;79.300 DT
+1736613405-756;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1L Currant 40;79.300 DT
+1736613405-757;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;RICARD;100CL;79.990 DT
+1736613405-758;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMESON;50CL;79.990 DT
+1736613405-759;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF;1 L Red;79.990 DT
+1736613405-760;https://www.geantdrive.tn/tunis-city/10-boissons;Martini;ROSATO;1L;82.990 DT
+1736613405-761;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;GRANT'S;1L Triple wood;83.490 DT
+1736613405-762;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;50CL Apeach;84.900 DT
+1736613405-763;https://www.geantdrive.tn/tunis-city/10-boissons;Champagne;CYBELLE BLANC;75CL;79.900 DT
+1736613405-764;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;MALIBU;1L;86.300 DT
+1736613405-765;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;SAINT JAMES AMBRE;70CL;86.400 DT
+1736613405-766;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge AOC;DOMAINE NEFERIS;75CL;87.900 DT
+1736613405-767;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;RUSSIAN;1L Standard;90.990 DT
+1736613405-768;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;J&B RARE;50CL;89.000 DT
+1736613405-769;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;BOURGOGNE ALIGOTE;75CL RAPET 2017;92.890 DT
+1736613405-770;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;BICKENS;100CL;92.900 DT
+1736613405-771;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;NORDIC;700ML;94.890 DT
+1736613405-772;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;ELEGANCE;75CL Merlot;94.900 DT
+1736613405-773;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;BLANC DE LISIENNES;75CL Entre 2 mères;94.900 DT
+1736613405-774;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;ELEGANCE;75CL Cabernet sauvignon;94.900 DT
+1736613405-775;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;ELEGANCE;75CL Syrah;94.900 DT
+1736613405-776;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;75CL Gold;94.990 DT
+1736613405-777;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;BLACK/WHITE;1 L;91.990 DT
+1736613405-778;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;GORDON;1 L;95.900 DT
+1736613405-779;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;100CL;97.990 DT
+1736613405-780;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF BLUE;1L;91.990 DT
+1736613405-781;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;1 L Mandrin;99.900 DT
+1736613405-782;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;MONTAGNE NOIRE;75CL Chardonnay;99.900 DT
+1736613405-783;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;1 L raspberri;99.900 DT
+1736613405-784;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;1L Grapefruit;99.900 DT
+1736613405-785;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;MONTAGNE NOIRE;75CL Syrah;99.900 DT
+1736613405-786;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;100CL Limo;99.900 DT
+1736613405-787;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;GRANT'S;70CL Triple wood 40D;99.900 DT
+1736613405-788;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;1 L Mango;99.900 DT
+1736613405-789;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;100CL Vanille;99.900 DT
+1736613405-790;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;DOMAINE DU COLOMBIER;75CL Hermitage;99.900 DT
+1736613405-791;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;CHABLIS;150CL Besson 2015;99.990 DT
+1736613405-792;https://www.geantdrive.tn/tunis-city/10-boissons;Martini;BITTER;1L;99.990 DT
+1736613405-793;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;20CL Black label;102.000 DT
+1736613405-794;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;DANZKA;1.75L Original 40D;104.900 DT
+1736613405-795;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;JOSEPH MELLOT LES BREMAILLES 2019;75CL;105.000 DT
+1736613405-796;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;TOBIA;75CL;105.000 DT
+1736613405-797;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;GAIA NOTIOS;75CL;105.000 DT
+1736613405-798;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;TOBIA;75CL;105.000 DT
+1736613405-799;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc de blanc;K BY KURUBIS;75CL Chardonnay...;105.000 DT
+1736613405-800;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;BOTT GEYL17;75CL Riesling les...;105.390 DT
+1736613405-801;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;UNDURRAGA CABERNET SAUVIGNON;75CL;106.000 DT
+1736613405-802;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACK DANIEL'S;37.5CL Honey;109.000 DT
+1736613405-803;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;TERRE NATUZZI;75CL;109.000 DT
+1736613405-804;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;APEROL ERITIVO;100CL Nature;109.900 DT
+1736613405-805;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;CROCODILE DIAMANTE;75CL;110.000 DT
+1736613405-806;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;CROCODILE DIAMANTE;75CL;110.000 DT
+1736613405-807;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;CROCODILE DIAMANTE;75CL;110.000 DT
+1736613405-808;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;FAMOUS GROUSE;70CL 40D;111.100 DT
+1736613405-809;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;GORDON'S;1L Pink;111.700 DT
+1736613405-810;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur rouge;MARTINI;100CL;79.900 DT
+1736613405-811;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur blanc;MARTINI;100CL;79.900 DT
+1736613405-812;https://www.geantdrive.tn/tunis-city/10-boissons;Calvados;FINE;70CL;116.990 DT
+1736613405-813;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;CHÂTEAU MONTUS;75CL Madiran;117.000 DT
+1736613405-814;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;DONNA FUGATTA;75CL Sedara;119.000 DT
+1736613405-815;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;BALLANTINE;1 L;119.000 DT
+1736613405-816;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;ANTHILIA;75CL Donna fugatta;119.000 DT
+1736613405-817;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;75CL Red label;119.000 DT
+1736613405-818;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;DONNA FUGATTA LUMERA;75CL;119.000 DT
+1736613405-819;https://www.geantdrive.tn/tunis-city/10-boissons;Pastis;HENRI BARDOUNIN;70CL 45D;119.000 DT
+1736613405-820;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;CAPTAIN MORGAN;1L White;119.900 DT
+1736613405-821;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMESON;70CL;122.900 DT
+1736613405-822;https://www.geantdrive.tn/tunis-city/10-boissons;Tequila;EL JIMADOR;70CL Blanco;124.990 DT
+1736613405-823;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;GRAND MARINIER;70CL Cordon rouge;126.800 DT
+1736613405-824;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;STOLICHNAYA;1L Gold;127.000 DT
+1736613405-825;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;1 L 100;122.900 DT
+1736613405-826;https://www.geantdrive.tn/tunis-city/10-boissons;Vin mousseux rosé;CAFE DE PARIS;75CL;129.450 DT
+1736613405-827;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;BEEFEATER;1L;129.600 DT
+1736613405-828;https://www.geantdrive.tn/tunis-city/10-boissons;Tequila;JOSE CUERVO;1 L;129.990 DT
+1736613405-829;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;CAMPARI BITTER;100CL Vanille;105.900 DT
+1736613405-830;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF;1L White;131.990 DT
+1736613405-831;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF;1.5L Red;133.000 DT
+1736613405-832;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;J&B;1 L;132.900 DT
+1736613405-833;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;DONNA FUGATTA;75CL Sherazade;139.000 DT
+1736613405-834;https://www.geantdrive.tn/tunis-city/10-boissons;Champagne;ALFRED ROTHSCHILD ET CIE;37.5CL Brut;139.000 DT
+1736613405-835;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge;BOURGOGNE;75CL Hautes côtes de nuit;139.000 DT
+1736613405-836;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rosé;CHÂTEAU D'ESTOUBLON;75CL Roseblood;139.000 DT
+1736613405-837;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;VERMENTINO;75CL Santa cristina;139.000 DT
+1736613405-838;https://www.geantdrive.tn/tunis-city/10-boissons;Vin blanc;CHÂTEAU D'ESTOUBLON;75CL Roseblood;139.000 DT
+1736613405-839;https://www.geantdrive.tn/tunis-city/10-boissons;Liqueur;KAHLUA;1L Crème café;147.150 DT
+1736613405-840;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;DEWAR;75CL;147.900 DT
+1736613405-841;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CHIVAS REGAL;50CL 12 YO;148.990 DT
+1736613405-842;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;GRANT'S;75CL Triple wood 12 YO;149.000 DT
+1736613405-843;https://www.geantdrive.tn/tunis-city/10-boissons;Vin rouge mousseux;OPERE 27 LAMBRUSCO;75CL;149.000 DT
+1736613405-844;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;BACARDI;1L Carta negra;157.350 DT
+1736613405-845;https://www.geantdrive.tn/tunis-city/10-boissons;Martini asti;SPUMENTI;75CL;157.500 DT
+1736613405-846;https://www.geantdrive.tn/tunis-city/10-boissons;Tequila;OLMECA ALTOS PLATA;70CL 38%;159.000 DT
+1736613405-847;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMESON;70CL Mandarin;154.990 DT
+1736613405-848;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;THE FAMOUS GROUSE;1L 40D;166.700 DT
+1736613405-849;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMESON;1 L;168.990 DT
+1736613405-850;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;HAIG CLUB;70CL 40D;169.900 DT
+1736613405-851;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BELVEDERE;50CL Pure;174.990 DT
+1736613405-852;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ABSOLUT;1.75L Bleu;172.900 DT
+1736613405-853;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;HAVANA CLUB;1L 3 Years;179.000 DT
+1736613405-854;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;SMIRNOFF;1L Gold;191.900 DT
+1736613405-855;https://www.geantdrive.tn/tunis-city/10-boissons;Gin;HENDRICK'S;700ML;194.800 DT
+1736613405-856;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;KETEL ONE;1 L Mandarin;199.400 DT
+1736613405-857;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACK DANIEL'S;70CL N°7;204.990 DT
+1736613405-858;https://www.geantdrive.tn/tunis-city/10-boissons;Tequila;OLMECA;1L Blanco;209.000 DT
+1736613405-859;https://www.geantdrive.tn/tunis-city/10-boissons;Champagne brut;ROBERT DE MONTY;75CL;219.000 DT
+1736613405-860;https://www.geantdrive.tn/tunis-city/10-boissons;Tequila;OLMECA;1L Gold;219.000 DT
+1736613405-861;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACK DANIEL'S;70CL;222.000 DT
+1736613405-862;https://www.geantdrive.tn/tunis-city/10-boissons;Anise;PERNOD;70CL Absinthe;222.990 DT
+1736613405-863;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACK DANIEL'S;70CL Tenessee apple;231.090 DT
+1736613405-864;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BELVEDERE;75CL Blackberry &...;234.900 DT
+1736613405-865;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BELVEDERE;75CL Lemon & Basilic...;234.900 DT
+1736613405-866;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;BELVEDERE;75CL Pear & Ginger...;234.900 DT
+1736613405-867;https://www.geantdrive.tn/tunis-city/10-boissons;Cognac;MARTELL VS;70CL;235.000 DT
+1736613405-868;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CHIVAS REGAL;70CL;238.900 DT
+1736613405-869;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JAMESON;100CL Black barrel;245.000 DT
+1736613405-870;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNIE WALKER;1L Black label sherry...;257.500 DT
+1736613405-871;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACK DANIEL'S;1 L;266.000 DT
+1736613405-872;https://www.geantdrive.tn/tunis-city/10-boissons;Rhum;HAVANA CLUB;70CL 7 Years;267.790 DT
+1736613405-873;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CHIVAS REGAL;1 L;268.990 DT
+1736613405-874;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;CIROC;70CL 40D;273.800 DT
+1736613405-875;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;GREY GOOSE;1 L Original;275.990 DT
+1736613405-876;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;MONKEY SHOULDER;70CL 40D;281.800 DT
+1736613405-877;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ROBERTO CAVALLI;1 L Nature;297.000 DT
+1736613405-878;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;ROBERTO CAVALLI;1L Coffee;297.000 DT
+1736613405-879;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JACK DANIEL'S;70CL Gentelman jack;299.000 DT
+1736613405-880;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;1L 100;315.000 DT
+1736613405-881;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;CIROC;1L;329.990 DT
+1736613405-882;https://www.geantdrive.tn/tunis-city/10-boissons;Champagne;BRUT;75CL Varnier-Fanniere...;349.000 DT
+1736613405-883;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;1 L;349.000 DT
+1736613405-884;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CHIVAS REGAL;70CL XV;365.900 DT
+1736613405-885;https://www.geantdrive.tn/tunis-city/10-boissons;Champagne;BRUT;75CL Varnier-Fanniere...;429.000 DT
+1736613405-886;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CHIVAS REGAL;1L XV;440.000 DT
+1736613405-887;https://www.geantdrive.tn/tunis-city/10-boissons;Vodka;GREY GOOSE;1.5L;450.000 DT
+1736613405-888;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CARDHU;1L;459.000 DT
+1736613405-889;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;JOHNNIE WALKER;1L Gold label reserve;469.000 DT
+1736613405-890;https://www.geantdrive.tn/tunis-city/10-boissons;Champagne;MOÊT & CHANDON;Rosé impérial;480.000 DT
+1736613405-891;https://www.geantdrive.tn/tunis-city/10-boissons;Whisky;CHIVAS REGAL;70CL 18 YO;489.000 DT

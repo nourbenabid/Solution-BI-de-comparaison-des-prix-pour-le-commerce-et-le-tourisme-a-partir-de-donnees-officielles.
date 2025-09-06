@@ -1,0 +1,425 @@
+﻿web-scraper-order;web-scraper-start-url;produit;marque;taille;prix
+1736665372-1;https://www.geantdrive.tn/tunis-city/160-le-marche;Coriandre;;La botte;1.180 DT
+1736665372-2;https://www.geantdrive.tn/tunis-city/160-le-marche;salade batavia;;La pièce;2.090 DT
+1736665372-3;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain panini;;5 Pièces;3.190 DT
+1736665372-4;https://www.geantdrive.tn/tunis-city/160-le-marche;Tartelette aux dattes x2;;La barquette;3.200 DT
+1736665372-5;https://www.geantdrive.tn/tunis-city/160-le-marche;Tartelette 4 saisons x2;;La barquette;3.400 DT
+1736665372-6;https://www.geantdrive.tn/tunis-city/160-le-marche;Tartelette au chocolat x2;;La barquette;3.700 DT
+1736665372-7;https://www.geantdrive.tn/tunis-city/160-le-marche;Caprice aux amandes x4;;La barquette;5.400 DT
+1736665372-8;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;15 pièces Jaune orange;8.070 DT
+1736665372-9;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte aux dattes 6/8 p...;;La pièce;10.900 DT
+1736665372-10;https://www.geantdrive.tn/tunis-city/160-le-marche;Chouquette au café et ...;;La barquette;11.900 DT
+1736665372-11;https://www.geantdrive.tn/tunis-city/160-le-marche;Petits fours x12;;La barquette;10.290 DT
+1736665372-12;https://www.geantdrive.tn/tunis-city/160-le-marche;Tutti frutti 10/12 parts;;La pièce;12.500 DT
+1736665372-13;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte génoise aux frui...;;La pièce;13.000 DT
+1736665372-14;https://www.geantdrive.tn/tunis-city/160-le-marche;Maigre d'élevage;;Le KG;22.500 DT/ Kg
+1736665372-15;https://www.geantdrive.tn/tunis-city/160-le-marche;Loup semi-élevage;;Conditionné par 300g...;22.800 DT/ Kg
+1736665372-16;https://www.geantdrive.tn/tunis-city/160-le-marche;Pageot;;Conditionné par 250g;15.800 DT/ Kg
+1736665372-17;https://www.geantdrive.tn/tunis-city/160-le-marche;Daurade semi-élevage m...;;Conditionné par 350g;22.500 DT/ Kg
+1736665372-18;https://www.geantdrive.tn/tunis-city/160-le-marche;Persil;;La botte;0.270 DT
+1736665372-19;https://www.geantdrive.tn/tunis-city/160-le-marche;Baguette à la farine s...;;La pièce de 200g;0.310 DT
+1736665372-20;https://www.geantdrive.tn/tunis-city/160-le-marche;Blette;;La pièce;0.370 DT
+1736665372-21;https://www.geantdrive.tn/tunis-city/160-le-marche;Celeri vert;;La pièce;0.500 DT
+1736665372-22;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain sans sel;;La pièce;0.600 DT
+1736665372-23;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain céréales à l'anci...;;La pièce;0.650 DT
+1736665372-24;https://www.geantdrive.tn/tunis-city/160-le-marche;Chou vert;;Conditionné par 1KG;0.670 DT/ Kg
+1736665372-25;https://www.geantdrive.tn/tunis-city/160-le-marche;Chou rouge;;Conditionné par 1KG;0.670 DT/ Kg
+1736665372-26;https://www.geantdrive.tn/tunis-city/160-le-marche;Baguette traditionnell...;;La pièce;0.550 DT
+1736665372-27;https://www.geantdrive.tn/tunis-city/160-le-marche;Salade laitue;;La pièce;0.740 DT
+1736665372-28;https://www.geantdrive.tn/tunis-city/160-le-marche;Menthe;;La botte;0.790 DT
+1736665372-29;https://www.geantdrive.tn/tunis-city/160-le-marche;Pâte à pizza;;350GR;0.590 DT
+1736665372-30;https://www.geantdrive.tn/tunis-city/160-le-marche;Salade romaine;;La pièce;0.850 DT
+1736665372-31;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami régaline;;80GR;0.700 DT
+1736665372-32;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami dicky dicky;;85GR;0.880 DT
+1736665372-33;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain;;La pièce;0.900 DT
+1736665372-34;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;5 feuilles;0.930 DT
+1736665372-35;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain en boule;;La pièce;0.950 DT
+1736665372-36;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka semoule;;5 feuilles;0.950 DT
+1736665372-37;https://www.geantdrive.tn/tunis-city/160-le-marche;Fenouil avec fanes;;Conditionné par 500g;0.980 DT/ Kg
+1736665372-38;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;5 Feuilles;1.040 DT
+1736665372-39;https://www.geantdrive.tn/tunis-city/160-le-marche;Tabouna pain complet;;La pièce;1.050 DT
+1736665372-40;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka plate;;5 feuilles;1.070 DT
+1736665372-41;https://www.geantdrive.tn/tunis-city/160-le-marche;Orange à jus;;Conditionné par 500g;1.080 DT/ Kg
+1736665372-42;https://www.geantdrive.tn/tunis-city/160-le-marche;Pamplemousse rose A;;Conditionné par 1KG;1.080 DT/ Kg
+1736665372-43;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami dindino;;85GR;1.100 DT
+1736665372-44;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini régaline de dinde;;100GR;1.180 DT
+1736665372-45;https://www.geantdrive.tn/tunis-city/160-le-marche;Aneth;;La botte;1.180 DT
+1736665372-46;https://www.geantdrive.tn/tunis-city/160-le-marche;Baguette viennoise;;La pièce;1.250 DT
+1736665372-47;https://www.geantdrive.tn/tunis-city/160-le-marche;Coque suisse;;La pièce;1.250 DT
+1736665372-48;https://www.geantdrive.tn/tunis-city/160-le-marche;Chausson aux pommes;;La pièce;1.250 DT
+1736665372-49;https://www.geantdrive.tn/tunis-city/160-le-marche;Radis local;;La botte;1.280 DT
+1736665372-50;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain au fondant ou sch...;;La pièce;1.300 DT
+1736665372-51;https://www.geantdrive.tn/tunis-city/160-le-marche;Boureyka;;32 feuilles;1.350 DT
+1736665372-52;https://www.geantdrive.tn/tunis-city/160-le-marche;Samsa;;7 feuilles;1.350 DT
+1736665372-53;https://www.geantdrive.tn/tunis-city/160-le-marche;Citron Eureka AA;;Conditionné par 500g;1.330 DT/ Kg
+1736665372-54;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;12 feuilles;1.380 DT
+1736665372-55;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka carré;;12 feuilles;1.380 DT
+1736665372-56;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie kids;;12 Pièces;1.390 DT
+1736665372-57;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain burger;;2 Pièces-140GR Complet;1.430 DT
+1736665372-58;https://www.geantdrive.tn/tunis-city/160-le-marche;Orange Thompson Navel AA;;Conditionné par 500g;1.490 DT/ Kg
+1736665372-59;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain libanais (Raghif);;Ø15CM;1.490 DT
+1736665372-60;https://www.geantdrive.tn/tunis-city/160-le-marche;Frites;;En portion;1.500 DT
+1736665372-61;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka plate;;12 feuilles;1.520 DT
+1736665372-62;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka warka;;12 feuilles;1.520 DT
+1736665372-63;https://www.geantdrive.tn/tunis-city/160-le-marche;Pâte pâtissier samsa;;7 feuilles;1.520 DT
+1736665372-64;https://www.geantdrive.tn/tunis-city/160-le-marche;Mille feuille au chocolat;;La pièce;1.550 DT
+1736665372-65;https://www.geantdrive.tn/tunis-city/160-le-marche;Croissant amande pur b...;;La pièce;1.550 DT
+1736665372-66;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;10 feuilles;1.550 DT
+1736665372-67;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka semoule;;10 feuilles;1.590 DT
+1736665372-68;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain de campagne x5;;La barquette;1.600 DT
+1736665372-69;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain viennois x5;;La barquette;1.600 DT
+1736665372-70;https://www.geantdrive.tn/tunis-city/160-le-marche;Oignon vert;;Conditionné par 500g;1.600 DT/ Kg
+1736665372-71;https://www.geantdrive.tn/tunis-city/160-le-marche;Tête de fenouil;;Conditionné par 500g;1.600 DT/ Kg
+1736665372-72;https://www.geantdrive.tn/tunis-city/160-le-marche;Navet avec fanes;;Conditionné par 500g;1.730 DT/ Kg
+1736665372-73;https://www.geantdrive.tn/tunis-city/160-le-marche;Oignon rouge;;Conditionné par 1KG;1.730 DT/ Kg
+1736665372-74;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;10 feuilles;1.730 DT
+1736665372-75;https://www.geantdrive.tn/tunis-city/160-le-marche;Chou fleur;;Conditionné par 1KG;1.730 DT/ Kg
+1736665372-76;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;10 Feuilles;1.740 DT
+1736665372-77;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;10 Feuilles;1.740 DT
+1736665372-78;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain complet x5;;La barquette;1.800 DT
+1736665372-79;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain complet;;La pièce;1.800 DT
+1736665372-80;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain libanais nature;;Le sachet;1.850 DT
+1736665372-81;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain libanais complet;;Le sachet;1.850 DT
+1736665372-82;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain viennois au...;;La barquette;1.900 DT
+1736665372-83;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;10 Feuilles Semoule;1.940 DT
+1736665372-84;https://www.geantdrive.tn/tunis-city/160-le-marche;Malsouka;;10 Feuilles;1.940 DT
+1736665372-85;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain parisien de campagne;;La pièce;1.950 DT
+1736665372-86;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain aux céréale...;;La barquette;2.000 DT
+1736665372-87;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain aux céréales;;La pièce;2.000 DT
+1736665372-88;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie blanc;;14 Tranches;1.790 DT
+1736665372-89;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini jambon de dinde;;100GR;2.040 DT
+1736665372-90;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de campagne 400g;;La pièce;2.050 DT
+1736665372-91;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de campagne en Bo...;;La pièce;2.050 DT
+1736665372-92;https://www.geantdrive.tn/tunis-city/160-le-marche;Orange douce A;;Conditionné par 500g;2.070 DT/ Kg
+1736665372-93;https://www.geantdrive.tn/tunis-city/160-le-marche;Carotte sans fanes;;Conditionné par 500g;2.070 DT/ Kg
+1736665372-94;https://www.geantdrive.tn/tunis-city/160-le-marche;Poireau;;Conditionné par 500g;2.070 DT/ Kg
+1736665372-95;https://www.geantdrive.tn/tunis-city/160-le-marche;Salade batavia rouge;;La pièce;2.090 DT
+1736665372-96;https://www.geantdrive.tn/tunis-city/160-le-marche;Salade feuille de chên...;;La pièce;2.090 DT
+1736665372-97;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie en tranches;;250g Nature;2.100 DT
+1736665372-98;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie nature;;15 Tranches;2.130 DT
+1736665372-99;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie complet;;15 Tranches;2.130 DT
+1736665372-100;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain libanais complet ...;;Ø21CM;2.190 DT
+1736665372-101;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain burger;;5 Pièces Nature;2.190 DT
+1736665372-102;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain libanais (Raghif);;Ø22CM;2.190 DT
+1736665372-103;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain burger;;4 Pièces Au sésame;2.250 DT
+1736665372-104;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain chawarma;;Le sachet;2.250 DT
+1736665372-105;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain hamburger bun's;;4 pièces;2.290 DT
+1736665372-106;https://www.geantdrive.tn/tunis-city/160-le-marche;Courge musquée;;Conditionné par 500g;2.300 DT/ Kg
+1736665372-107;https://www.geantdrive.tn/tunis-city/160-le-marche;Michon viennois x4;;La barquette;2.300 DT
+1736665372-108;https://www.geantdrive.tn/tunis-city/160-le-marche;Pomme de terre;;Conditionné par 500g;2.300 DT/ Kg
+1736665372-109;https://www.geantdrive.tn/tunis-city/160-le-marche;Tomate allongée;;Conditionné par 500g;2.300 DT/ Kg
+1736665372-110;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie rond nature;;17 Tranches;2.320 DT
+1736665372-111;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami de dinde;;200GR Aux olives;2.390 DT
+1736665372-112;https://www.geantdrive.tn/tunis-city/160-le-marche;Michon de campagne x4;;La barquette;2.400 DT
+1736665372-113;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de campagne;;19 Pièces;2.400 DT
+1736665372-114;https://www.geantdrive.tn/tunis-city/160-le-marche;Buns complet;;220GR;2.450 DT
+1736665372-115;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie complet;;14 Tranches;2.450 DT
+1736665372-116;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;15 Tranches;2.450 DT
+1736665372-117;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambonnette de dinde;;100GR;2.450 DT
+1736665372-118;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;430GR Nature;2.450 DT
+1736665372-119;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie brioché;;16 Pièces;2.480 DT
+1736665372-120;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie naturel;;14 Tranches;2.480 DT
+1736665372-121;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain hamburger aux sés...;;4 pièces;2.490 DT
+1736665372-122;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde;;100GR;2.190 DT
+1736665372-123;https://www.geantdrive.tn/tunis-city/160-le-marche;Panini précuit;;5x120GR;2.590 DT
+1736665372-124;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie en tranches;;16 Tranches-440g Aux...;2.600 DT
+1736665372-125;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;430GR Complet;2.650 DT
+1736665372-126;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain libanais (Raghif);;Ø27CM;2.650 DT
+1736665372-127;https://www.geantdrive.tn/tunis-city/160-le-marche;Bettrave avec fanes;;Conditionné par 500g;2.650 DT/ Kg
+1736665372-128;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie sandwich;;12 Tranches;2.680 DT
+1736665372-129;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain sandwich;;5 Pièces Au sésame;2.690 DT
+1736665372-130;https://www.geantdrive.tn/tunis-city/160-le-marche;Tabouna x5;;La barquette;2.700 DT
+1736665372-131;https://www.geantdrive.tn/tunis-city/160-le-marche;Orange thompson sanguine;;Conditionné par 500g;2.710 DT/ Kg
+1736665372-132;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain oriental (Raghif);;Le sachet;2.750 DT
+1736665372-133;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain oriental complet ...;;Le sachet;2.750 DT
+1736665372-134;https://www.geantdrive.tn/tunis-city/160-le-marche;Barquettes soirée;;20 Pièces;2.790 DT
+1736665372-135;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain au fondant ou sch...;;La barquette;2.800 DT
+1736665372-136;https://www.geantdrive.tn/tunis-city/160-le-marche;Chou rave;;Conditionné par 1KG;2.830 DT/ Kg
+1736665372-137;https://www.geantdrive.tn/tunis-city/160-le-marche;Epinard;;Conditionné par 500g;2.880 DT/ Kg
+1736665372-138;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;250GR;2.880 DT
+1736665372-139;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain aux noix x5;;La barquette;2.950 DT
+1736665372-140;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;20 Pièces Aux céréales;2.980 DT
+1736665372-141;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;Aux céréales 16 Pièces;2.980 DT
+1736665372-142;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;18 Tranches Pour régime;2.990 DT
+1736665372-143;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie complet;;14 Tranches;3.050 DT
+1736665372-144;https://www.geantdrive.tn/tunis-city/160-le-marche;Tomate cocktail gourme...;;400GR;3.080 DT
+1736665372-145;https://www.geantdrive.tn/tunis-city/160-le-marche;Barquettes rondes;;10 Pièces Moyen modèle;3.090 DT
+1736665372-146;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde extra;;300GR;3.150 DT
+1736665372-147;https://www.geantdrive.tn/tunis-city/160-le-marche;Mille feuille aux frui...;;La barquette;3.200 DT
+1736665372-148;https://www.geantdrive.tn/tunis-city/160-le-marche;Choux à la crème Choco...;;La barquette;3.200 DT
+1736665372-149;https://www.geantdrive.tn/tunis-city/160-le-marche;Mille feuille Fondant ...;;La barquette;3.200 DT
+1736665372-150;https://www.geantdrive.tn/tunis-city/160-le-marche;Choux à la crème Café x2;;La barquette;3.350 DT
+1736665372-151;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami de dinde m...;;200GR;3.380 DT
+1736665372-152;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain grillé;;200GR Nature;3.390 DT
+1736665372-153;https://www.geantdrive.tn/tunis-city/160-le-marche;Mille feuille au choco...;;La barquette;3.400 DT
+1736665372-154;https://www.geantdrive.tn/tunis-city/160-le-marche;Tomate cerise;;La barquette de 200g;3.411 DT
+1736665372-155;https://www.geantdrive.tn/tunis-city/160-le-marche;Tomate cerise ronde;;La barquette de 250g;3.411 DT
+1736665372-156;https://www.geantdrive.tn/tunis-city/160-le-marche;Oeufs frais;;6 Pièces;3.420 DT
+1736665372-157;https://www.geantdrive.tn/tunis-city/160-le-marche;Palmier;;180GR;3.450 DT
+1736665372-158;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de bœuf;;100GR Traditionnel;3.490 DT
+1736665372-159;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain grillé fibres;;200GR;3.490 DT
+1736665372-160;https://www.geantdrive.tn/tunis-city/160-le-marche;Mille feuille classiqu...;;La pièce;2.990 DT
+1736665372-161;https://www.geantdrive.tn/tunis-city/160-le-marche;Fricassé;;8 Pièces-240GR;3.590 DT
+1736665372-162;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;250GR Fromage;3.590 DT
+1736665372-163;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain grillé multicéréales;;200GR;3.590 DT
+1736665372-164;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte aux dattes x2;;La pièce;3.600 DT
+1736665372-165;https://www.geantdrive.tn/tunis-city/160-le-marche;Concombre;;Conditionné par 500g;3.680 DT/ Kg
+1736665372-166;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie;;16 Tranches Graines de...;3.690 DT
+1736665372-167;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes en cubes;;250GR;3.690 DT
+1736665372-168;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde au fro...;;200GR;3.700 DT
+1736665372-169;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pain viennois au...;;10 Pièces;3.750 DT
+1736665372-170;https://www.geantdrive.tn/tunis-city/160-le-marche;Piment meski;;Conditionné par 500g;3.790 DT/ Kg
+1736665372-171;https://www.geantdrive.tn/tunis-city/160-le-marche;Piment fort;;Conditionné par 500g;3.790 DT/ Kg
+1736665372-172;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami pur de bœuf tra...;;100GR;3.890 DT
+1736665372-173;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;300GR Au fromage;3.890 DT
+1736665372-174;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain semoule à l'ancienne;;Conditionné par 1KG;3.900 DT/ Kg
+1736665372-175;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes dénoyautées;;250GR;3.990 DT
+1736665372-176;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de campagne en Bo...;;La pièce;4.000 DT
+1736665372-177;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de campagne 800g;;La pièce;4.000 DT
+1736665372-178;https://www.geantdrive.tn/tunis-city/160-le-marche;Aubergine;;Conditionné par 500g;4.020 DT/ Kg
+1736665372-179;https://www.geantdrive.tn/tunis-city/160-le-marche;Poivron doux;;Conditionné par 500g;4.020 DT/ Kg
+1736665372-180;https://www.geantdrive.tn/tunis-city/160-le-marche;Courge potimarron;;Conditionné par 500g;4.030 DT/ Kg
+1736665372-181;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain de mie brioche mo...;;20 Tranches;2.890 DT
+1736665372-182;https://www.geantdrive.tn/tunis-city/160-le-marche;American sandwich;;18 Tranches Nature;4.190 DT
+1736665372-183;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain chawarma;;10 Pièces;4.290 DT
+1736665372-184;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;6Pièces Oméga 3;4.340 DT
+1736665372-185;https://www.geantdrive.tn/tunis-city/160-le-marche;Avocat Hass;;La pièce Grand calibre;4.350 DT
+1736665372-186;https://www.geantdrive.tn/tunis-city/160-le-marche;Pomme de terre grenail...;;500GR;4.380 DT
+1736665372-187;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte au chocolat x2;;La barquette;4.400 DT
+1736665372-188;https://www.geantdrive.tn/tunis-city/160-le-marche;Opéra au chocolat et a...;;La pièce;4.400 DT
+1736665372-189;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs;;6Pièces Ovita;4.430 DT
+1736665372-190;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;6 pièces Oméga 3;4.500 DT
+1736665372-191;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;250GR Tunisien;4.590 DT
+1736665372-192;https://www.geantdrive.tn/tunis-city/160-le-marche;Courgette;;Conditionné par 500g;4.600 DT/ Kg
+1736665372-193;https://www.geantdrive.tn/tunis-city/160-le-marche;Pavé complet de thon e...;;La pièce;4.700 DT
+1736665372-194;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami de bœuf;;200GR;4.780 DT
+1736665372-195;https://www.geantdrive.tn/tunis-city/160-le-marche;Viennoiserie;;3 Pains au chocolat +3...;4.800 DT
+1736665372-196;https://www.geantdrive.tn/tunis-city/160-le-marche;Cheese cake aux griott...;;La pièce;4.800 DT
+1736665372-197;https://www.geantdrive.tn/tunis-city/160-le-marche;Super salami de dinde ...;;400GR;4.890 DT
+1736665372-198;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de bœuf;;250GR;4.890 DT
+1736665372-199;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain au maÏs;;La pièce;4.900 DT
+1736665372-200;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami de dinde;;370GR;4.900 DT
+1736665372-201;https://www.geantdrive.tn/tunis-city/160-le-marche;Tomate cerise rouge;;500GR;4.920 DT/ Kg
+1736665372-202;https://www.geantdrive.tn/tunis-city/160-le-marche;Aubergine;;Conditionné par 500g;5.100 DT/ Kg
+1736665372-203;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain complet;;Conditionné par 1KG;5.200 DT/ Kg
+1736665372-204;https://www.geantdrive.tn/tunis-city/160-le-marche;Mini salami de bœuf;;370GR;5.230 DT
+1736665372-205;https://www.geantdrive.tn/tunis-city/160-le-marche;Pain au fondant ou sch...;;La barquette;5.300 DT
+1736665372-206;https://www.geantdrive.tn/tunis-city/160-le-marche;Raisins secs;;100GR Golden;5.490 DT
+1736665372-207;https://www.geantdrive.tn/tunis-city/160-le-marche;Mangue;;La pièce;5.540 DT
+1736665372-208;https://www.geantdrive.tn/tunis-city/160-le-marche;Sandwich escalope de d...;;La pièce;5.800 DT
+1736665372-209;https://www.geantdrive.tn/tunis-city/160-le-marche;Menthe sèche;;Le sachet;5.890 DT
+1736665372-210;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte au chocolat nois...;;La barquette;6.000 DT
+1736665372-211;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisses Frankfurt fu...;;200GR;6.000 DT
+1736665372-212;https://www.geantdrive.tn/tunis-city/160-le-marche;Schnecke à la margarin...;;La barquette;6.000 DT
+1736665372-213;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami pepperoni;;250GR;6.090 DT
+1736665372-214;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes branchées;;500GR;6.150 DT
+1736665372-215;https://www.geantdrive.tn/tunis-city/160-le-marche;Datte branchée;;400GR;6.150 DT
+1736665372-216;https://www.geantdrive.tn/tunis-city/160-le-marche;Bergamotte;;Conditionné par 500g;6.150 DT/ Kg
+1736665372-217;https://www.geantdrive.tn/tunis-city/160-le-marche;Paraliné au noisette x2;;La pièce;6.200 DT
+1736665372-218;https://www.geantdrive.tn/tunis-city/160-le-marche;Opéra;;2Pièces Chocolat-Café;6.400 DT
+1736665372-219;https://www.geantdrive.tn/tunis-city/160-le-marche;Torsadés feuilletées;;La barquette Au beurre...;6.500 DT
+1736665372-220;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;15 Pièces Jaune orange;6.680 DT
+1736665372-221;https://www.geantdrive.tn/tunis-city/160-le-marche;Pomme golden A;;Conditionné par 500g;6.770 DT/ Kg
+1736665372-222;https://www.geantdrive.tn/tunis-city/160-le-marche;Pomme délicieuse A;;Conditionné par 500g;6.900 DT/ Kg
+1736665372-223;https://www.geantdrive.tn/tunis-city/160-le-marche;Haricot vert;;Conditionné par 500g;6.900 DT/ Kg
+1736665372-224;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisses de Frankfurt...;;230GR;6.900 DT
+1736665372-225;https://www.geantdrive.tn/tunis-city/160-le-marche;Petit pois;;Conditionné par 500g;6.900 DT/ Kg
+1736665372-226;https://www.geantdrive.tn/tunis-city/160-le-marche;Fonds de tartelettes;;9 Pièces;6.990 DT
+1736665372-227;https://www.geantdrive.tn/tunis-city/160-le-marche;Banane;;Conditionné par 500g;7.000 DT/ Kg
+1736665372-228;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde fumé;;95GR;6.290 DT
+1736665372-229;https://www.geantdrive.tn/tunis-city/160-le-marche;Pot au feu;;Le KG;7.500 DT
+1736665372-230;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;15 pièces;7.875 DT
+1736665372-231;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes standards;;1KG;8.030 DT
+1736665372-232;https://www.geantdrive.tn/tunis-city/160-le-marche;Pot au feu;;La barquette;8.030 DT
+1736665372-233;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;Jaune orange 15 pièces;8.100 DT
+1736665372-234;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;15 pièces;8.490 DT
+1736665372-235;https://www.geantdrive.tn/tunis-city/160-le-marche;Poulet pac;;LE KG;8.500 DT/ Kg
+1736665372-236;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de bœuf;;400GR;8.670 DT
+1736665372-237;https://www.geantdrive.tn/tunis-city/160-le-marche;Chorizo;;180GR;8.980 DT
+1736665372-238;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;15 Pièces Brunes Jaune...;8.990 DT
+1736665372-239;https://www.geantdrive.tn/tunis-city/160-le-marche;Riz à la macédoine;;LE KG;9.200 DT/ Kg
+1736665372-240;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde fumé;;300GR;9.490 DT
+1736665372-241;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;15 pièces Oméga 3;9.590 DT
+1736665372-242;https://www.geantdrive.tn/tunis-city/160-le-marche;Croissant à la margari...;;La barquette;9.600 DT
+1736665372-243;https://www.geantdrive.tn/tunis-city/160-le-marche;Feuille aloe vera;;Le KG;9.660 DT/ Kg
+1736665372-244;https://www.geantdrive.tn/tunis-city/160-le-marche;Brocoli vert;;Conditionné par 500g;9.840 DT/ Kg
+1736665372-245;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;15 pièces;8.900 DT
+1736665372-246;https://www.geantdrive.tn/tunis-city/160-le-marche;Super salami spécial d...;;Conditionné par 200GR;10.200 DT/ Kg
+1736665372-247;https://www.geantdrive.tn/tunis-city/160-le-marche;Super salami de dinde;;Conditionné par 200GR;7.900 DT/ Kg
+1736665372-248;https://www.geantdrive.tn/tunis-city/160-le-marche;Fraise;;Conditionné par 500g;10.350 DT/ Kg
+1736665372-249;https://www.geantdrive.tn/tunis-city/160-le-marche;Cake à la vanille;;Conditionné par 250g;10.400 DT/ Kg
+1736665372-250;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs;;Omiva 15 Pièces;10.430 DT
+1736665372-251;https://www.geantdrive.tn/tunis-city/160-le-marche;Régaline de dinde;;Conditionné par 200GR;10.600 DT/ Kg
+1736665372-252;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes branchées;;1KG;11.250 DT
+1736665372-253;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisse de bœuf fumé ...;;300GR;11.500 DT
+1736665372-254;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;Conditionné par 200g...;11.600 DT/ Kg
+1736665372-255;https://www.geantdrive.tn/tunis-city/160-le-marche;Cake au chocolat;;Conditionné par 250g;11.900 DT/ Kg
+1736665372-256;https://www.geantdrive.tn/tunis-city/160-le-marche;Pizza aux légumes;;Conditionné par 100GR;12.000 DT/ Kg
+1736665372-257;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes dénoyautées;;850GR;12.000 DT
+1736665372-258;https://www.geantdrive.tn/tunis-city/160-le-marche;Panaché de gâteaux x4;;La barquette;12.200 DT
+1736665372-259;https://www.geantdrive.tn/tunis-city/160-le-marche;Oeufs frais;;30 Pièces Junior;12.280 DT
+1736665372-260;https://www.geantdrive.tn/tunis-city/160-le-marche;Salade géant;;Conditionné par 200g;12.500 DT/ Kg
+1736665372-261;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;Conditionné par 200GR...;12.500 DT/ Kg
+1736665372-262;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais jaune;;30Pièces;12.670 DT
+1736665372-263;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde extra;;Conditionné par 200g;12.900 DT/ Kg
+1736665372-264;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte 4 saisons 6/8 parts;;La pièce;10.500 DT
+1736665372-265;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;15 Pièces Fermiers;11.490 DT
+1736665372-266;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;30 Pièces Jaune orange;13.130 DT
+1736665372-267;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs brika;;30 Pièces;13.350 DT
+1736665372-268;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs;;30 Pièces Adhayma;13.440 DT
+1736665372-269;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte au chocolat 6/8 ...;;La pièce;13.500 DT
+1736665372-270;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;Conditionné par 200GR...;13.600 DT/ Kg
+1736665372-271;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami danois de porc;;100GR;13.690 DT
+1736665372-272;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de bœuf spécial;;Conditionné par 200GR;13.800 DT/ Kg
+1736665372-273;https://www.geantdrive.tn/tunis-city/160-le-marche;Mortadelle d'Italie de...;;100GR;13.990 DT
+1736665372-274;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes;;1KG;13.990 DT
+1736665372-275;https://www.geantdrive.tn/tunis-city/160-le-marche;Chorizo de porc;;80GR;14.200 DT
+1736665372-276;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;30 pièces;14.250 DT
+1736665372-277;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs;;30 Pièces Good morning;14.400 DT
+1736665372-278;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;30 Pièces Jaune orange;14.410 DT
+1736665372-279;https://www.geantdrive.tn/tunis-city/160-le-marche;Régaline de dinde;;Conditionné par 200GR...;14.500 DT/ Kg
+1736665372-280;https://www.geantdrive.tn/tunis-city/160-le-marche;Haut de cuisse de poulet;;Conditionné par 500g...;14.500 DT/ Kg
+1736665372-281;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;30 pièces Jaune orange;14.700 DT
+1736665372-282;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de bœuf;;Conditionné par 200GR;14.900 DT/ Kg
+1736665372-283;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;Conditionné par 200g...;10.900 DT/ Kg
+1736665372-284;https://www.geantdrive.tn/tunis-city/160-le-marche;Cake aux fruits secs;;Conditionné par 250g;13.900 DT/ Kg
+1736665372-285;https://www.geantdrive.tn/tunis-city/160-le-marche;Poulet rôti;;La pièce;15.200 DT
+1736665372-286;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de dinde;;Conditionné par 200g...;15.200 DT/ Kg
+1736665372-287;https://www.geantdrive.tn/tunis-city/160-le-marche;Cuisses de poulet;;Conditionné par 500g;15.550 DT/ Kg
+1736665372-288;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de paris de porc;;180GR 4 Tranches;15.570 DT
+1736665372-289;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;30 Pièces Jaune...;15.890 DT
+1736665372-290;https://www.geantdrive.tn/tunis-city/160-le-marche;Salade méchouia;;Conditionné par 200g;15.900 DT/ Kg
+1736665372-291;https://www.geantdrive.tn/tunis-city/160-le-marche;Ail rouge sec;;Conditionné par 100g;15.990 DT/ Kg
+1736665372-292;https://www.geantdrive.tn/tunis-city/160-le-marche;Chorizo au piment Espa...;;100GR;15.990 DT
+1736665372-293;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisson sec supérieu...;;100GR;15.990 DT
+1736665372-294;https://www.geantdrive.tn/tunis-city/160-le-marche;Escalope de poulet;;Conditionné par 500g;16.000 DT/ Kg
+1736665372-295;https://www.geantdrive.tn/tunis-city/160-le-marche;Escalope de dinde;;Conditionné par 500g;16.000 DT/ Kg
+1736665372-296;https://www.geantdrive.tn/tunis-city/160-le-marche;Poulet rôti;;La pièce;16.400 DT
+1736665372-297;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte au chocolat gian...;;La pièce;16.500 DT
+1736665372-298;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte amandine 6/8 parts;;La pièce;13.900 DT
+1736665372-299;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;30 Pièces Oméga 3;16.790 DT
+1736665372-300;https://www.geantdrive.tn/tunis-city/160-le-marche;Tastira;;Conditionné par 200g;16.800 DT/ Kg
+1736665372-301;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;Oméga 3 30 pièces;16.820 DT
+1736665372-302;https://www.geantdrive.tn/tunis-city/160-le-marche;Œuf frais;;30 pièces;17.290 DT
+1736665372-303;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs;;30 Pièces Oméga 3;17.390 DT
+1736665372-304;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes;;1KG;17.490 DT
+1736665372-305;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de campagne de ...;;Conditionné par 200g;17.500 DT/ Kg
+1736665372-306;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs;;30Pièces Omiva;17.590 DT
+1736665372-307;https://www.geantdrive.tn/tunis-city/160-le-marche;Pilon de poulet;;Conditionné par 500g;17.950 DT/ Kg
+1736665372-308;https://www.geantdrive.tn/tunis-city/160-le-marche;Croquette pané;;Conditionné par 200g;18.000 DT/ Kg
+1736665372-309;https://www.geantdrive.tn/tunis-city/160-le-marche;Steak de dinde;;Conditionné par 500g...;18.200 DT/ Kg
+1736665372-310;https://www.geantdrive.tn/tunis-city/160-le-marche;Cacahuhète rouge;;Conditonné par 100g;18.500 DT/ Kg
+1736665372-311;https://www.geantdrive.tn/tunis-city/160-le-marche;Cannoli kunefa et aush...;;34 Pièces;18.990 DT
+1736665372-312;https://www.geantdrive.tn/tunis-city/160-le-marche;Blanc de poulet;;Conditionné par 500g...;19.000 DT/ Kg
+1736665372-313;https://www.geantdrive.tn/tunis-city/160-le-marche;Tarte ananas;;La pièce;19.900 DT
+1736665372-314;https://www.geantdrive.tn/tunis-city/160-le-marche;Chicken nuggets pané;;Conditionné par 250g;19.600 DT/ Kg
+1736665372-315;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde famille;;Conditionné par 200GR;19.900 DT/ Kg
+1736665372-316;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde famille;;Conditionné par 200g;19.900 DT/ Kg
+1736665372-317;https://www.geantdrive.tn/tunis-city/160-le-marche;Champignon;;Conditionné par 500g;20.060 DT/ Kg
+1736665372-318;https://www.geantdrive.tn/tunis-city/160-le-marche;Framboise;;125GR En barquette;20.060 DT
+1736665372-319;https://www.geantdrive.tn/tunis-city/160-le-marche;Champignon;;Conditionné par 300g;20.730 DT/ Kg
+1736665372-320;https://www.geantdrive.tn/tunis-city/160-le-marche;Entremet chocolatine 6...;;La pièce;20.900 DT
+1736665372-321;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde;;Conditionné par 200g;20.900 DT/ Kg
+1736665372-322;https://www.geantdrive.tn/tunis-city/160-le-marche;Cacahuète décortiquée;;Conditonné par 100g;20.900 DT/ Kg
+1736665372-323;https://www.geantdrive.tn/tunis-city/160-le-marche;Sésame blanc;;Conditonné par 100g;20.900 DT/ Kg
+1736665372-324;https://www.geantdrive.tn/tunis-city/160-le-marche;Dattes branchées;;2KG;21.250 DT
+1736665372-325;https://www.geantdrive.tn/tunis-city/160-le-marche;Champignon en slice;;Conditionné par 500g;21.400 DT/ Kg
+1736665372-326;https://www.geantdrive.tn/tunis-city/160-le-marche;Biscuit fourré aux dat...;;Conditionné par 500g;17.900 DT/ Kg
+1736665372-327;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde;;Conditionné par 200g;21.500 DT/ Kg
+1736665372-328;https://www.geantdrive.tn/tunis-city/160-le-marche;Entremet créole 6/8 parts;;La pièce;21.700 DT
+1736665372-329;https://www.geantdrive.tn/tunis-city/160-le-marche;Biscuit coquillage rond;;Conditionné par 250g;17.900 DT/ Kg
+1736665372-330;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de poulet;;Conditionné par 200g;22.300 DT/ Kg
+1736665372-331;https://www.geantdrive.tn/tunis-city/160-le-marche;Régaline pur bœuf;;Conditionné par 200g;22.500 DT/ Kg
+1736665372-332;https://www.geantdrive.tn/tunis-city/160-le-marche;Pizza;;Conditionné par 100GR...;22.500 DT/ Kg
+1736665372-333;https://www.geantdrive.tn/tunis-city/160-le-marche;Saupe;;Grand modèle LE KG;9.700 DT/ Kg
+1736665372-334;https://www.geantdrive.tn/tunis-city/160-le-marche;Sésame moulu;;Conditonné par 100g;22.900 DT/ Kg
+1736665372-335;https://www.geantdrive.tn/tunis-city/160-le-marche;Loup semi-élevage;;Conditionné par 350g;23.300 DT/ Kg
+1736665372-336;https://www.geantdrive.tn/tunis-city/160-le-marche;Amande blanchie;;250GR;23.490 DT
+1736665372-337;https://www.geantdrive.tn/tunis-city/160-le-marche;Opéra 6/8 parts;;La pièce;17.900 DT
+1736665372-338;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde;;Conditionné par 200GR...;23.900 DT/ Kg
+1736665372-339;https://www.geantdrive.tn/tunis-city/160-le-marche;Paraliné au noisette 6...;;La pièce;24.000 DT
+1736665372-340;https://www.geantdrive.tn/tunis-city/160-le-marche;Succès chocolat au noi...;;La pièce;24.000 DT
+1736665372-341;https://www.geantdrive.tn/tunis-city/160-le-marche;Raisin sec noir;;Conditionné par 100g;24.200 DT/ Kg
+1736665372-342;https://www.geantdrive.tn/tunis-city/160-le-marche;Œufs frais;;30 Pièces Fermiers;24.490 DT
+1736665372-343;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de campagne de ...;;Conditionné par 200GR;24.500 DT/ Kg
+1736665372-344;https://www.geantdrive.tn/tunis-city/160-le-marche;Roulé au fromage pané;;Conditionné par 200g;24.800 DT/ Kg
+1736665372-345;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisson à l'ail;;Conditionné par 200GR;24.900 DT/ Kg
+1736665372-346;https://www.geantdrive.tn/tunis-city/160-le-marche;Graines de courges sal...;;Conditionné par 100g;25.500 DT/ Kg
+1736665372-347;https://www.geantdrive.tn/tunis-city/160-le-marche;Noix de coco rapée;;Conditionné par 100g;25.900 DT/ Kg
+1736665372-348;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de poulet fumé;;Conditionné par 200GR;26.500 DT/ Kg
+1736665372-349;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de poulet;;Conditionné par 200GR;26.500 DT/ Kg
+1736665372-350;https://www.geantdrive.tn/tunis-city/160-le-marche;Entremet à la pistache...;;La pièce;26.800 DT
+1736665372-351;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de poulet fumé;;Conditionné par 200g;26.800 DT/ Kg
+1736665372-352;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde fumé;;Conditionné par 200g;27.500 DT/ Kg
+1736665372-353;https://www.geantdrive.tn/tunis-city/160-le-marche;Piment rouge sec;;Conditionné par 500g;27.600 DT/ Kg
+1736665372-354;https://www.geantdrive.tn/tunis-city/160-le-marche;Entremet chocolatine 1...;;La pièce;28.500 DT
+1736665372-355;https://www.geantdrive.tn/tunis-city/160-le-marche;Entremet créole 10/12 ...;;La pièce;29.000 DT
+1736665372-356;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde fumé;;Conditionné par 200g;29.200 DT/ Kg
+1736665372-357;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de dinde fumé;;Conditionné par 200g;29.900 DT/ Kg
+1736665372-358;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami de bœuf traditi...;;Conditionné par 200GR;29.900 DT/ Kg
+1736665372-359;https://www.geantdrive.tn/tunis-city/160-le-marche;Noix avec coque;;Conditionné par 100g;29.900 DT/ Kg
+1736665372-360;https://www.geantdrive.tn/tunis-city/160-le-marche;Chorizo;;Conditionné par 200g;31.500 DT/ Kg
+1736665372-361;https://www.geantdrive.tn/tunis-city/160-le-marche;Merlu;;Conditionné par 300g;25.800 DT/ Kg
+1736665372-362;https://www.geantdrive.tn/tunis-city/160-le-marche;Boulettes panées au fr...;;Conditionné par 200g;32.900 DT/ Kg
+1736665372-363;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisse à l'ail;;Conditionné par 200GR;32.900 DT/ Kg
+1736665372-364;https://www.geantdrive.tn/tunis-city/160-le-marche;Gougeonette pané;;LE KG;33.500 DT/ Kg
+1736665372-365;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisson traditionnel;;Conditionné par 200g;33.500 DT/ Kg
+1736665372-366;https://www.geantdrive.tn/tunis-city/160-le-marche;Escalope de dinde pané;;LE KG;31.900 DT/ Kg
+1736665372-367;https://www.geantdrive.tn/tunis-city/160-le-marche;Poulpe de sable Boumesk;;Conditionné par 500g...;30.900 DT/ Kg
+1736665372-368;https://www.geantdrive.tn/tunis-city/160-le-marche;Cordon bleu pané;;Conditionné par 200g;31.900 DT/ Kg
+1736665372-369;https://www.geantdrive.tn/tunis-city/160-le-marche;Bifteck 1ère catégorie...;;Conditionné par 500g;38.000 DT/ Kg
+1736665372-370;https://www.geantdrive.tn/tunis-city/160-le-marche;Jarret sans os Jeune b...;;Conditionné par 500g;38.000 DT/ Kg
+1736665372-371;https://www.geantdrive.tn/tunis-city/160-le-marche;Viande hachée jeune bovin;;Conditionné par 300g...;38.000 DT/ Kg
+1736665372-372;https://www.geantdrive.tn/tunis-city/160-le-marche;Salami pur bœuf tradit...;;Conditionné par 200GR;38.500 DT/ Kg
+1736665372-373;https://www.geantdrive.tn/tunis-city/160-le-marche;Roulé au fromage pané;;Conditionné par 200g;33.900 DT/ Kg
+1736665372-374;https://www.geantdrive.tn/tunis-city/160-le-marche;Chips de banane;;Conditionné par 100g;38.800 DT/ Kg
+1736665372-375;https://www.geantdrive.tn/tunis-city/160-le-marche;Cordon bleu pané;;Conditionné par 200g;38.900 DT/ Kg
+1736665372-376;https://www.geantdrive.tn/tunis-city/160-le-marche;Pop corn;;LE KG Au fromage;38.900 DT/ Kg
+1736665372-377;https://www.geantdrive.tn/tunis-city/160-le-marche;Chicken nuggets pané;;Conditionné par 200g;38.900 DT/ Kg
+1736665372-378;https://www.geantdrive.tn/tunis-city/160-le-marche;Rouget rouge;;Grand modèle LE KG;39.700 DT/ Kg
+1736665372-379;https://www.geantdrive.tn/tunis-city/160-le-marche;Amande de Californie r...;;Conditionné par 100g;40.200 DT/ Kg
+1736665372-380;https://www.geantdrive.tn/tunis-city/160-le-marche;Roulé au fromage pané;;LE KG;40.900 DT/ Kg
+1736665372-381;https://www.geantdrive.tn/tunis-city/160-le-marche;Chicken nuggets pané;;Conditionné par 200g;41.000 DT/ Kg
+1736665372-382;https://www.geantdrive.tn/tunis-city/160-le-marche;Grain de courge décort...;;Conditonné par 100g;42.900 DT/ Kg
+1736665372-383;https://www.geantdrive.tn/tunis-city/160-le-marche;Ragout avec os Agneau ...;;Conditionné par 400g;43.000 DT/ Kg
+1736665372-384;https://www.geantdrive.tn/tunis-city/160-le-marche;Côtes découvertes d'ag...;;Conditionné par 500g;43.000 DT/ Kg
+1736665372-385;https://www.geantdrive.tn/tunis-city/160-le-marche;Gigot en tranche d'agn...;;Conditionné par 500g;43.000 DT/ Kg
+1736665372-386;https://www.geantdrive.tn/tunis-city/160-le-marche;Epaule en tranche Agne...;;Conditionné par 400g;43.000 DT/ Kg
+1736665372-387;https://www.geantdrive.tn/tunis-city/160-le-marche;Collier en tranche d'a...;;Conditionné par 500g;43.000 DT/ Kg
+1736665372-388;https://www.geantdrive.tn/tunis-city/160-le-marche;Amande blanche moulue;;Conditionné par 100g;43.900 DT/ Kg
+1736665372-389;https://www.geantdrive.tn/tunis-city/160-le-marche;Saucisson traditionnel;;Conditionné par 200GR;45.600 DT/ Kg
+1736665372-390;https://www.geantdrive.tn/tunis-city/160-le-marche;Banana chips;;Conditonné par 100g;46.900 DT/ Kg
+1736665372-391;https://www.geantdrive.tn/tunis-city/160-le-marche;Escalope de poulet pané;;LE KG;46.900 DT/ Kg
+1736665372-392;https://www.geantdrive.tn/tunis-city/160-le-marche;Anguille (Hancha);;Conditionné par 300GR...;39.700 DT/ Kg
+1736665372-393;https://www.geantdrive.tn/tunis-city/160-le-marche;Côtes 1ère Agneau de t...;;Conditionné par 300g;48.500 DT/ Kg
+1736665372-394;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon pur bœuf fumé;;Conditionné par 200g;49.200 DT/ Kg
+1736665372-395;https://www.geantdrive.tn/tunis-city/160-le-marche;Figues séchées noir;;Conditionné par 100g;49.900 DT/ Kg
+1736665372-396;https://www.geantdrive.tn/tunis-city/160-le-marche;Jambon de bœuf fumé;;Conditionné par 200GR;49.900 DT/ Kg
+1736665372-397;https://www.geantdrive.tn/tunis-city/160-le-marche;Cerneaux de noix extra;;Conditionné par 100g;50.000 DT/ Kg
+1736665372-398;https://www.geantdrive.tn/tunis-city/160-le-marche;Figue séchée Chriha;;Conditionné par 100g;53.900 DT/ Kg
+1736665372-399;https://www.geantdrive.tn/tunis-city/160-le-marche;Mix exotique;;Conditonné par 100g;53.900 DT/ Kg
+1736665372-400;https://www.geantdrive.tn/tunis-city/160-le-marche;Abricot sec;;Conditionné par 100g;55.900 DT/ Kg
+1736665372-401;https://www.geantdrive.tn/tunis-city/160-le-marche;Noix de Bresil;;Conditonné par 100g;59.900 DT/ Kg
+1736665372-402;https://www.geantdrive.tn/tunis-city/160-le-marche;Pruneau seché;;Conditionné par 100g;59.900 DT/ Kg
+1736665372-403;https://www.geantdrive.tn/tunis-city/160-le-marche;Mix salée;;Conditonné par 100g;59.900 DT/ Kg
+1736665372-404;https://www.geantdrive.tn/tunis-city/160-le-marche;Baklawa louz;;LE KG;61.900 DT/ Kg
+1736665372-405;https://www.geantdrive.tn/tunis-city/160-le-marche;Noisette décortiquée b...;;Conditionné par 100g;62.000 DT/ Kg
+1736665372-406;https://www.geantdrive.tn/tunis-city/160-le-marche;Baklawa amande;;Conditionné par 250g;62.500 DT/ Kg
+1736665372-407;https://www.geantdrive.tn/tunis-city/160-le-marche;Kaak warka;;Conditionné par 250g;62.500 DT/ Kg
+1736665372-408;https://www.geantdrive.tn/tunis-city/160-le-marche;Kiwi verte;;Conditonné par 100g;62.500 DT/ Kg
+1736665372-409;https://www.geantdrive.tn/tunis-city/160-le-marche;Ananas séchés;;Conditionné par 100g;63.900 DT/ Kg
+1736665372-410;https://www.geantdrive.tn/tunis-city/160-le-marche;Boulettes de carthage;;Conditionné par 250g;64.500 DT/ Kg
+1736665372-411;https://www.geantdrive.tn/tunis-city/160-le-marche;Amande éffilée blanche;;Conditionné par 100g;64.900 DT/ Kg
+1736665372-412;https://www.geantdrive.tn/tunis-city/160-le-marche;Filet de daurade d'éle...;;Conditionné par 300GR;66.900 DT/ Kg
+1736665372-413;https://www.geantdrive.tn/tunis-city/160-le-marche;Noisette blanche;;Conditionné par 100g;67.000 DT/ Kg
+1736665372-414;https://www.geantdrive.tn/tunis-city/160-le-marche;Boulettes de carthage;;Conditionné par 250g;71.900 DT/ Kg
+1736665372-415;https://www.geantdrive.tn/tunis-city/160-le-marche;Darne de saumon découpé;;Conditionné par 300g;74.250 DT/ Kg
+1736665372-416;https://www.geantdrive.tn/tunis-city/160-le-marche;Fraise sec;;Conditonné par 100g;79.900 DT/ Kg
+1736665372-417;https://www.geantdrive.tn/tunis-city/160-le-marche;Noisette moulue;;Conditonné par 100g;83.900 DT/ Kg
+1736665372-418;https://www.geantdrive.tn/tunis-city/160-le-marche;Entremet créole 40/40CM;;La pièce;85.000 DT
+1736665372-419;https://www.geantdrive.tn/tunis-city/160-le-marche;Pistache d'Iran décort...;;Conditionné par 100g;96.800 DT/ Kg
+1736665372-420;https://www.geantdrive.tn/tunis-city/160-le-marche;Pistache décortiquée b...;;Conditonné par 100g;96.800 DT/ Kg
+1736665372-421;https://www.geantdrive.tn/tunis-city/160-le-marche;Pavé de saumon découpé;;Conditionné par 300g;96.900 DT/ Kg
+1736665372-422;https://www.geantdrive.tn/tunis-city/160-le-marche;Filet de saumon découpé;;Conditionné par 300g;70.400 DT/ Kg
+1736665372-423;https://www.geantdrive.tn/tunis-city/160-le-marche;Pistache moulue;;Conditionné par 100g;115.000 DT/ Kg
+1736665372-424;https://www.geantdrive.tn/tunis-city/160-le-marche;Pignon de pin chine;;Conditionné par 100g;170.200 DT/ Kg

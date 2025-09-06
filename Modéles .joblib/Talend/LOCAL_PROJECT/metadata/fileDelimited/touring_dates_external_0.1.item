@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_aAKXIPbSEe-6QM8kkprROA" name="touring_dates_external" dataPackage="_aAKXIfbSEe-6QM8kkprROA" Server="Localhost 127.0.0.1" FilePath="C:/Users/User/Downloads/touring_avec_dates_region.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;'&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_aAKXIfbSEe-6QM8kkprROA" name="default" dataManager="_aAKXIPbSEe-6QM8kkprROA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_aAKXIvbSEe-6QM8kkprROA" id="_IcaMgPbSEe-6QM8kkprROA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThEPbSEe-6QM8kkprROA" label="_web_scraper_order" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThEfbSEe-6QM8kkprROA" label="_web_scraper_start_url" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThEvbSEe-6QM8kkprROA" label="_name" length="42" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThE_bSEe-6QM8kkprROA" label="_price" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThFPbSEe-6QM8kkprROA" label="_formule" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThFfbSEe-6QM8kkprROA" label="_region" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aAThFvbSEe-6QM8kkprROA" label="_date" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

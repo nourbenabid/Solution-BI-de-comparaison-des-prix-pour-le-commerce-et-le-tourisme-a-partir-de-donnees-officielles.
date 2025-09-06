@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_fGIZIeNPEe-qCt5zTQbZxg" name="Product" id="_fGIZIONPEe-qCt5zTQbZxg" dataPackage="_fGIZIuNPEe-qCt5zTQbZxg" Server="Localhost 127.0.0.1" FilePath="C:/Users/User/Desktop/Comparateur de prix/Product.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorType="Custom String" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_fGIZIuNPEe-qCt5zTQbZxg" name="default" dataManager="_fGIZIeNPEe-qCt5zTQbZxg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_fGIZI-NPEe-qCt5zTQbZxg" id="_N0pDMONPEe-qCt5zTQbZxg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fGIZJONPEe-qCt5zTQbZxg" label="Code_Produit" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fGIZJeNPEe-qCt5zTQbZxg" label="Produit" length="73" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fGIZJuNPEe-qCt5zTQbZxg" label="Id_cat_gorie_Produit" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fGIZJ-NPEe-qCt5zTQbZxg" label="Column3" length="1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
